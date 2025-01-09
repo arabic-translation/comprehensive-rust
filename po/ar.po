@@ -5479,11 +5479,11 @@ msgstr "في الحالة الشائعة لمطابقة نمط والعودة م
 
 #: src/pattern-matching/let-control-flow.md
 msgid "\"got None\""
-msgstr "حصل على None"
+msgstr "\"حصل على None\""
 
 #: src/pattern-matching/let-control-flow.md
 msgid "\"got empty string\""
-msgstr "حصل على سلسلة حروف فارغة (empty string)"
+msgstr "\"حصل على سلسلة حروف فارغة (empty string)\""
 
 #: src/pattern-matching/let-control-flow.md
 msgid "\"not a hex digit\""
