@@ -5487,7 +5487,7 @@ msgstr "\"حصل على سلسلة حروف فارغة (empty string)\""
 
 #: src/pattern-matching/let-control-flow.md
 msgid "\"not a hex digit\""
-msgstr "ليس رقمًا سداسيًا عشريًا (hex digit)"
+msgstr "\"ليس رقمًا سداسيًا عشريًا (hex digit)\""
 
 #: src/pattern-matching/let-control-flow.md src/pattern-matching/solution.md
 msgid "\"result: {:?}\""
