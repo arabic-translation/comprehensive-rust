@@ -5467,7 +5467,7 @@ msgstr "تسمح لك [تعبير `if let`](https://doc.rust-lang.org/reference/
 
 #: src/pattern-matching/let-control-flow.md
 msgid "\"slept for {:?}\""
-msgstr "نام لمدة {:?}"
+msgstr "\"نام لمدة {:?}\""
 
 #: src/pattern-matching/let-control-flow.md
 msgid ""
@@ -5491,7 +5491,7 @@ msgstr "\"ليس رقمًا سداسيًا عشريًا (hex digit)\""
 
 #: src/pattern-matching/let-control-flow.md src/pattern-matching/solution.md
 msgid "\"result: {:?}\""
-msgstr "النتيجة: {:?}"
+msgstr "\"النتيجة: {:?}\""
 
 #: src/pattern-matching/let-control-flow.md src/generics/trait-bounds.md
 #: src/smart-pointers/solution.md src/testing/solution.md
