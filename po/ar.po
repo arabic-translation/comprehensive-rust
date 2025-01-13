@@ -1305,18 +1305,18 @@ msgid ""
 "google/comprehensive-rust/actions/workflows/build.yml?query=branch%3Amain) [!"
 "[GitHub contributors](https://img.shields.io/github/contributors/google/"
 "comprehensive-rust?style=flat-square)](https://github.com/google/"
-"comprehensive-rust/graphs/contributors) [![GitHub stars](https://img.shields."
-"io/github/stars/google/comprehensive-rust?style=flat-square)](https://github."
-"com/google/comprehensive-rust/stargazers)"
+"comprehensive-rust/graphs/contributors) [![GitHub stars](https://"
+"img.shields.io/github/stars/google/comprehensive-rust?style=flat-square)]"
+"(https://github.com/google/comprehensive-rust/stargazers)"
 msgstr ""
 "[![سير العمل للبناء](https://img.shields.io/github/actions/workflow/status/"
 "google/comprehensive-rust/build.yml?style=flat-square)](https://github.com/"
 "google/comprehensive-rust/actions/workflows/build.yml?query=branch%3Amain) [!"
 "[مساهمون GitHub](https://img.shields.io/github/contributors/google/"
 "comprehensive-rust?style=flat-square)](https://github.com/google/"
-"comprehensive-rust/graphs/contributors) [![نجوم GitHub](https://img.shields."
-"io/github/stars/google/comprehensive-rust?style=flat-square)](https://github."
-"com/google/comprehensive-rust/stargazers)"
+"comprehensive-rust/graphs/contributors) [![نجوم GitHub](https://"
+"img.shields.io/github/stars/google/comprehensive-rust?style=flat-square)]"
+"(https://github.com/google/comprehensive-rust/stargazers)"
 
 #: src/index.md
 msgid ""
@@ -1919,9 +1919,9 @@ msgstr "تمت ترجمة الدورة إلى لغات أخرى من قبل مج
 #: src/running-the-course/translations.md
 msgid ""
 "[Brazilian Portuguese](https://google.github.io/comprehensive-rust/pt-BR/) "
-"by [@rastringer](https://github.com/rastringer), [@hugojacob](https://github."
-"com/hugojacob), [@joaovicmendes](https://github.com/joaovicmendes), and "
-"[@henrif75](https://github.com/henrif75)."
+"by [@rastringer](https://github.com/rastringer), [@hugojacob](https://"
+"github.com/hugojacob), [@joaovicmendes](https://github.com/joaovicmendes), "
+"and [@henrif75](https://github.com/henrif75)."
 msgstr ""
 "[البرتغالية البرازيلية](https://google.github.io/comprehensive-rust/pt-BR/) "
 "بواسطة [@rastringer](https://github.com/rastringer), [@hugojacob](https://"
@@ -1953,10 +1953,10 @@ msgid ""
 "johnathan79717)."
 msgstr ""
 "[الصينية (التقليدية)](https://google.github.io/comprehensive-rust/zh-TW/) "
-"بواسطة [@hueich](https://github.com/hueich), [@victorhsieh](https://github."
-"com/victorhsieh), [@mingyc](https://github.com/mingyc), [@kuanhungchen]"
-"(https://github.com/kuanhungchen), و [@johnathan79717](https://github.com/"
-"johnathan79717)."
+"بواسطة [@hueich](https://github.com/hueich), [@victorhsieh](https://"
+"github.com/victorhsieh), [@mingyc](https://github.com/mingyc), "
+"[@kuanhungchen](https://github.com/kuanhungchen), و [@johnathan79717]"
+"(https://github.com/johnathan79717)."
 
 #: src/running-the-course/translations.md
 msgid ""
@@ -1974,13 +1974,13 @@ msgstr ""
 msgid ""
 "[Korean](https://google.github.io/comprehensive-rust/ko/) by [@keispace]"
 "(https://github.com/keispace), [@jiyongp](https://github.com/jiyongp), "
-"[@jooyunghan](https://github.com/jooyunghan), and [@namhyung](https://github."
-"com/namhyung)."
+"[@jooyunghan](https://github.com/jooyunghan), and [@namhyung](https://"
+"github.com/namhyung)."
 msgstr ""
 "[الكورية](https://google.github.io/comprehensive-rust/ko/) بواسطة [@keispace]"
 "(https://github.com/keispace), [@jiyongp](https://github.com/jiyongp), "
-"[@jooyunghan](https://github.com/jooyunghan), و [@namhyung](https://github."
-"com/namhyung)."
+"[@jooyunghan](https://github.com/jooyunghan), و [@namhyung](https://"
+"github.com/namhyung)."
 
 #: src/running-the-course/translations.md
 msgid ""
@@ -2074,11 +2074,11 @@ msgstr ""
 
 #: src/cargo.md
 msgid ""
-"When you start reading about Rust, you will soon meet [Cargo](https://doc."
-"rust-lang.org/cargo/), the standard tool used in the Rust ecosystem to build "
-"and run Rust applications. Here we want to give a brief overview of what "
-"Cargo is and how it fits into the wider ecosystem and how it fits into this "
-"training."
+"When you start reading about Rust, you will soon meet [Cargo](https://"
+"doc.rust-lang.org/cargo/), the standard tool used in the Rust ecosystem to "
+"build and run Rust applications. Here we want to give a brief overview of "
+"what Cargo is and how it fits into the wider ecosystem and how it fits into "
+"this training."
 msgstr ""
 "عندما تبدأ في قراءة Rust، ستتعرف قريبًا على [Cargo](https://doc.rust-lang.org/"
 "cargo/)، الأداة القياسية المستخدمة في نظام Rust لبناء وتشغيل تطبيقات Rust. "
@@ -2120,8 +2120,8 @@ msgstr ""
 "والانتقال إلى التعريف لـ [VS Code](https://code.visualstudio.com/)، [Emacs]"
 "(https://rust-analyzer.github.io/manual.html#emacs)، [Vim/Neovim](https://"
 "rust-analyzer.github.io/manual.html#vimneovim)، والعديد من المحررات الأخرى. "
-"هناك أيضًا بيئة تطوير متكاملة مختلفة متاحة تسمى [RustRover](https://www."
-"jetbrains.com/rust/)."
+"هناك أيضًا بيئة تطوير متكاملة مختلفة متاحة تسمى [RustRover](https://"
+"www.jetbrains.com/rust/)."
 
 #: src/cargo.md
 msgid ""
@@ -2182,8 +2182,8 @@ msgid ""
 msgstr ""
 "`rustup`: مثبت ومحدث أدوات Rust. تُستخدم هذه الأداة لتثبيت وتحديث `rustc` و "
 "`cargo` عند إصدار نسخ جديدة من Rust. بالإضافة إلى ذلك، يمكن لـ `rustup` أيضًا "
-"تنزيل التوثيق للمكتبة القياسية(standard library). يمكنك تثبيت عدة إصدارات من Rust في وقت واحد "
-"و `rustup` سيسمح لك بالتبديل بينها حسب الحاجة."
+"تنزيل التوثيق للمكتبة القياسية(standard library). يمكنك تثبيت عدة إصدارات من "
+"Rust في وقت واحد و `rustup` سيسمح لك بالتبديل بينها حسب الحاجة."
 
 #: src/cargo/rust-ecosystem.md src/types-and-values/hello-world.md
 #: src/references/exclusive.md src/memory-management/move.md
@@ -2199,15 +2199,13 @@ msgid ""
 "plus they enable new functionality."
 msgstr ""
 "لدى Rust جدول إصدارات سريع مع إصدار جديد كل ستة أسابيع. تحافظ الإصدارات "
-"الجديدة على التوافق العكسي مع الإصدارات القديمة --- بالإضافة إلى إِتاحة "
-"وظائف جديدة."
+"الجديدة على التوافق العكسي مع الإصدارات القديمة --- بالإضافة إلى إِتاحة وظائف "
+"جديدة."
 
 #: src/cargo/rust-ecosystem.md
 msgid ""
 "There are three release channels: \"stable\", \"beta\", and \"nightly\"."
-msgstr ""
-"هناك·ثلاث·قنوات·إصدار:·\"stable\"·(مستقر)،·\"beta\"·(بيتا)،"
-"·و\"nightly\"·(ليلي)."
+msgstr "هناك·ثلاث·قنوات·إصدار:·\"stable\"·(مستقر)،·\"beta\"·(بيتا)،·و\"nightly\"·(ليلي)."
 
 #: src/cargo/rust-ecosystem.md
 msgid ""
@@ -2219,8 +2217,8 @@ msgstr ""
 
 #: src/cargo/rust-ecosystem.md
 msgid ""
-"Dependencies can also be resolved from alternative [registries](https://doc."
-"rust-lang.org/cargo/reference/registries.html), git, folders, and more."
+"Dependencies can also be resolved from alternative [registries](https://"
+"doc.rust-lang.org/cargo/reference/registries.html), git, folders, and more."
 msgstr ""
 "يمكن أيضًا حل التبعيات من [سجلات](https://doc.rust-lang.org/cargo/reference/"
 "registries.html) بديلة، git، المجلدات، والمزيد."
@@ -2286,21 +2284,21 @@ msgstr ""
 #: src/cargo/rust-ecosystem.md
 msgid "Dev Dependencies and Runtime Dependency management/caching"
 msgstr ""
-"تبعيات التطوير (Dev Depenedency) و إدارة/تخزين مُؤَقَّتٌ للتبعيات وقت التشغيل"
-"التشغيل (Runtime Dependency management/caching)"
+"تبعيات التطوير (Dev Depenedency) و إدارة/تخزين مُؤَقَّتٌ للتبعيات وقت "
+"التشغيلالتشغيل (Runtime Dependency management/caching)"
 
 #: src/cargo/rust-ecosystem.md
 msgid ""
-"[build scripting](https://doc.rust-lang.org/cargo/reference/build-scripts."
-"html)"
+"[build scripting](https://doc.rust-lang.org/cargo/reference/build-"
+"scripts.html)"
 msgstr ""
 "[برمجة البناء (build scripting)](https://doc.rust-lang.org/cargo/reference/"
 "build-scripts.html)"
 
 #: src/cargo/rust-ecosystem.md
 msgid ""
-"[global installation](https://doc.rust-lang.org/cargo/commands/cargo-install."
-"html)"
+"[global installation](https://doc.rust-lang.org/cargo/commands/cargo-"
+"install.html)"
 msgstr ""
 "[التثبيت الشامل](https://doc.rust-lang.org/cargo/commands/cargo-install.html)"
 
@@ -2922,9 +2920,9 @@ msgid ""
 "assembly."
 msgstr ""
 "عندما يتوجه الطلاب إلى الاستراحة، شجعهم على فتح الملعب (playground) والتجربة "
-"قليلاً. شجعهم على إبقاء علامة تبويب المتصفح مفتوحة وتجربة الأشياء خلال بقية الدورة. هذا "
-"مفيد بشكل خاص للطلاب المتقدمين الذين يريدون معرفة المزيد عن تحسينات Rust أو "
-"كود التجميع (assembly) الناتج."
+"قليلاً. شجعهم على إبقاء علامة تبويب المتصفح مفتوحة وتجربة الأشياء خلال بقية "
+"الدورة. هذا مفيد بشكل خاص للطلاب المتقدمين الذين يريدون معرفة المزيد عن "
+"تحسينات Rust أو كود التجميع (assembly) الناتج."
 
 #: src/types-and-values.md
 msgid "[Hello, World](./types-and-values/hello-world.md) (5 minutes)"
@@ -3022,8 +3020,8 @@ msgstr ""
 msgid ""
 "Macros being 'hygienic' means they don't accidentally capture identifiers "
 "from the scope they are used in. Rust macros are actually only [partially "
-"hygienic](https://veykril.github.io/tlborm/decl-macros/minutiae/hygiene."
-"html)."
+"hygienic](https://veykril.github.io/tlborm/decl-macros/minutiae/"
+"hygiene.html)."
 msgstr ""
 "كون الماكروهات (macros) 'hygienic' يعني أنها لا تلتقط identifiers من scope "
 "الذي تُستخدم فيه عن طريق الخطأ. في الواقع، ماكروهات Rust (macros) هي فقط "
@@ -3226,11 +3224,11 @@ msgid ""
 "with method syntax, e.g., `(a * b).saturating_add(b * c).saturating_add(c * "
 "a)`."
 msgstr ""
-"قم بتغيير `i32` إلى `i16` لرؤية تجاوز السعة للأعداد الصحيحة، والذي يسبب (panic) "
-"(panic) في بناء التصحيح (debug build) ويلتف في بناء الإصدار (release build). "
-"هناك خيارات أخرى، مثل التجاوز (overflowing)، التشبع (saturating)، والحمل "
-"(carrying). يتم الوصول إليها باستخدام صيغة الدالة (method syntax)، مثل `(a * "
-"b).saturating_add(b * c).saturating_add(c * a)`."
+"قم بتغيير `i32` إلى `i16` لرؤية تجاوز السعة للأعداد الصحيحة، والذي يسبب "
+"(panic) (panic) في بناء التصحيح (debug build) ويلتف في بناء الإصدار (release "
+"build). هناك خيارات أخرى، مثل التجاوز (overflowing)، التشبع (saturating)، "
+"والحمل (carrying). يتم الوصول إليها باستخدام صيغة الدالة (method syntax)، "
+"مثل `(a * b).saturating_add(b * c).saturating_add(c * a)`."
 
 #: src/types-and-values/arithmetic.md
 msgid ""
@@ -3330,8 +3328,8 @@ msgstr "[break و continue](./control-flow-basics/break-continue.md) (4 دقائ
 msgid ""
 "[Blocks and Scopes](./control-flow-basics/blocks-and-scopes.md) (5 minutes)"
 msgstr ""
-"[الكتل (Blocks) والنطاقات (Scopes)](./control-flow-basics/blocks-and-scopes."
-"md) (5 دقائق)"
+"[الكتل (Blocks) والنطاقات (Scopes)](./control-flow-basics/blocks-and-"
+"scopes.md) (5 دقائق)"
 
 #: src/control-flow-basics.md
 msgid "[Functions](./control-flow-basics/functions.md) (3 minutes)"
@@ -3345,8 +3343,8 @@ msgstr "[الماكروز (Macros)](./control-flow-basics/macros.md) (2 دقائ
 msgid ""
 "[Exercise: Collatz Sequence](./control-flow-basics/exercise.md) (15 minutes)"
 msgstr ""
-"[تمرين: متتالية كولاتز (Collatz Sequence)](./control-flow-basics/exercise."
-"md) (15 دقائق)"
+"[تمرين: متتالية كولاتز (Collatz Sequence)](./control-flow-basics/"
+"exercise.md) (15 دقائق)"
 
 #: src/control-flow-basics/if.md
 msgid "`if` expressions"
@@ -3357,8 +3355,8 @@ msgid ""
 "You use [`if` expressions](https://doc.rust-lang.org/reference/expressions/"
 "if-expr.html#if-expressions) exactly like `if` statements in other languages:"
 msgstr ""
-"تستخدم [تعابير `if`](https://doc.rust-lang.org/reference/expressions/if-expr."
-"html#if-expressions) تمامًا مثل جمل `if` في اللغات الأخرى:"
+"تستخدم [تعابير `if`](https://doc.rust-lang.org/reference/expressions/if-"
+"expr.html#if-expressions) تمامًا مثل جمل `if` في اللغات الأخرى:"
 
 #: src/control-flow-basics/if.md
 msgid "\"zero!\""
@@ -3490,8 +3488,8 @@ msgid ""
 "`loop`, this can take an optional expression that becomes the value of the "
 "`loop` expression."
 msgstr ""
-"إذا كنت تريد الخروج من أي نوع من الحلقات مبكرًا، استخدم [`break`](https://doc."
-"rust-lang.org/reference/expressions/loop-expr.html#break-expressions). "
+"إذا كنت تريد الخروج من أي نوع من الحلقات مبكرًا، استخدم [`break`](https://"
+"doc.rust-lang.org/reference/expressions/loop-expr.html#break-expressions). "
 "بالنسبة لـ `loop`، يمكن أن تأخذ هذه تعبيرًا اختياريًا يصبح قيمة تعبير `loop`."
 
 #: src/control-flow-basics/break-continue.md src/std-traits/exercise.md
@@ -3521,9 +3519,9 @@ msgid ""
 "value. This is because it's guaranteed to be entered at least once (unlike "
 "`while` and `for` loops)."
 msgstr ""
-"لاحظ أن `loop` هو البناء التكراري الوحيد الذي يعيد قيمة معقده (non-"
-"trivial value). هذا لأنه مضمون الدخول إليه مرة واحدة على الأقل (على عكس "
-"حلقات `while` و `for` (while و for))."
+"لاحظ أن `loop` هو البناء التكراري الوحيد الذي يعيد قيمة معقده (non-trivial "
+"value). هذا لأنه مضمون الدخول إليه مرة واحدة على الأقل (على عكس حلقات "
+"`while` و `for` (while و for))."
 
 #: src/control-flow-basics/blocks-and-scopes.md
 msgid "Blocks"
@@ -3616,8 +3614,8 @@ msgid ""
 "Shadowing looks obscure at first, but is convenient for holding on to values "
 "after `.unwrap()`."
 msgstr ""
-"التظليل (Shadowing) يبدو غامضًا في البداية، لكنه مريح للاحتفاظ بالقيم بعد `."
-"unwrap()`."
+"التظليل (Shadowing) يبدو غامضًا في البداية، لكنه مريح للاحتفاظ بالقيم بعد "
+"`.unwrap()`."
 
 #: src/control-flow-basics/functions.md
 msgid ""
@@ -3637,7 +3635,8 @@ msgstr ""
 "آخر تعبير في جسم الدالة (function body) (أو أي كتلة) يصبح قيمة الإرجاع "
 "(return value). ببساطة احذف `;` في نهاية التعبير. يمكن استخدام الكلمة "
 "المفتاحية `return` للإرجاع المبكر (early return)، ولكن الشكل \"bare value\" "
-"هو الشكل الاصطلاحي في نهاية الدالة (refactor `gcd` to use a `return`) قم بتغيير 'gcd' و استخدم 'return'."
+"هو الشكل الاصطلاحي في نهاية الدالة (refactor `gcd` to use a `return`) قم "
+"بتغيير 'gcd' و استخدم 'return'."
 
 #: src/control-flow-basics/functions.md
 msgid ""
@@ -4198,8 +4197,8 @@ msgid ""
 "yielding its value."
 msgstr ""
 "المرجع المشترك (shared reference) لنوع `T` يكون من النوع `&T`. يتم إنشاء "
-"قيمة المرجع باستخدام المعامل `&`."
-"·المعامل·`*`·يقوم·بـ·\"إلغاء·المرجع\"·(dereferences)·للمرجع،·مما·يعطي·قيمته."
+"قيمة المرجع باستخدام المعامل "
+"`&`.·المعامل·`*`·يقوم·بـ·\"إلغاء·المرجع\"·(dereferences)·للمرجع،·مما·يعطي·قيمته."
 
 #: src/references/shared.md
 msgid "Rust will statically forbid dangling references:"
@@ -4349,8 +4348,8 @@ msgid ""
 "identical."
 msgstr ""
 "إذا بدأت الشريحة (slice) عند الفهرس 0، فإن صيغة النطاق (range syntax) في "
-"Rust تسمح لنا بإسقاط فهرس البداية، مما يعني أن `&a[0..a.len()]` و `&a[..a."
-"len()]` متطابقتان."
+"Rust تسمح لنا بإسقاط فهرس البداية، مما يعني أن `&a[0..a.len()]` و "
+"`&a[..a.len()]` متطابقتان."
 
 #: src/references/slices.md
 msgid ""
@@ -4491,9 +4490,9 @@ msgid ""
 "UTF-8 encoded bytes and will never use a small-string optimization)."
 msgstr ""
 "لمبرمجي C++: فكر في `&str` كـ `std::string_view` من C++، ولكنه دائمًا يشير "
-"إلى سلسلة نصية صالحة في الذاكرة. `String` في Rust هو مكافئ تقريبي لـ `std::"
-"string` من C++ (الفرق الرئيسي: يمكن أن يحتوي فقط على بايتات مشفرة بـ UTF-8 "
-"ولن يستخدم أبدًا تحسين السلسلة الصغيرة (small-string optimization))."
+"إلى سلسلة نصية صالحة في الذاكرة. `String` في Rust هو مكافئ تقريبي لـ "
+"`std::string` من C++ (الفرق الرئيسي: يمكن أن يحتوي فقط على بايتات مشفرة بـ "
+"UTF-8 ولن يستخدم أبدًا تحسين السلسلة الصغيرة (small-string optimization))."
 
 #: src/references/strings.md
 msgid "Byte strings literals allow you to create a `&[u8]` value directly:"
@@ -4746,11 +4745,11 @@ msgstr ""
 
 #: src/user-defined-types/tuple-structs.md
 msgid ""
-"The example is a subtle reference to the [Mars Climate Orbiter](https://en."
-"wikipedia.org/wiki/Mars_Climate_Orbiter) failure."
+"The example is a subtle reference to the [Mars Climate Orbiter](https://"
+"en.wikipedia.org/wiki/Mars_Climate_Orbiter) failure."
 msgstr ""
-"المثال هو إشارة دقيقة إلى فشل [Mars Climate Orbiter](https://en.wikipedia."
-"org/wiki/Mars_Climate_Orbiter)."
+"المثال هو إشارة دقيقة إلى فشل [Mars Climate Orbiter](https://"
+"en.wikipedia.org/wiki/Mars_Climate_Orbiter)."
 
 #: src/user-defined-types/enums.md
 msgid ""
@@ -4949,14 +4948,14 @@ msgid ""
 msgstr ""
 "نظرًا لأن المتغيرات الثابتة (`static` variables) يمكن الوصول إليها من أي خيط "
 "(thread)، يجب أن تكون `Sync`. القابلية للتغيير الداخلي (Interior mutability) "
-"ممكنة من خلال [`Mutex`](https://doc.rust-lang.org/std/sync/struct.Mutex."
-"html)، (atomic) أو ما شابه."
+"ممكنة من خلال [`Mutex`](https://doc.rust-lang.org/std/sync/"
+"struct.Mutex.html)، (atomic) أو ما شابه."
 
 #: src/user-defined-types/static.md
 msgid "Thread-local data can be created with the macro `std::thread_local`."
 msgstr ""
-"يمكن إنشاء البيانات المحلية للخيط (Thread-local data) باستخدام الماكرو `std::"
-"thread_local`."
+"يمكن إنشاء البيانات المحلية للخيط (Thread-local data) باستخدام الماكرو "
+"`std::thread_local`."
 
 #: src/user-defined-types/const.md
 msgid "`const`"
@@ -5134,17 +5133,16 @@ msgid ""
 "Now that we have seen a fair amount of Rust, today will focus on Rust's type "
 "system:"
 msgstr ""
-"الآن بعد أن رأينا قدرًا لا بأس به من Rust، سيركز اليوم على نظام الأنواع في Rust's type:"
+"الآن بعد أن رأينا قدرًا لا بأس به من Rust، سيركز اليوم على نظام الأنواع في "
+"Rust's type:"
 
 #: src/welcome-day-2.md
 msgid "Pattern matching: extracting data from structures."
-msgstr ""
-"مطابقة الأنماط: استخراج البيانات من الهياكل."
+msgstr "مطابقة الأنماط: استخراج البيانات من الهياكل."
 
 #: src/welcome-day-2.md
 msgid "Methods: associating functions with types."
-msgstr ""
-"الأساليب: ربط الدوال بالأنواع."
+msgstr "الأساليب: ربط الدوال بالأنواع."
 
 #: src/welcome-day-2.md
 msgid "Traits: behaviors shared by multiple types."
@@ -5157,7 +5155,9 @@ msgstr "الأنواع العامة (Generics): تحديد الأنواع بنا
 #: src/welcome-day-2.md
 msgid ""
 "Standard library types and traits: a tour of Rust's rich standard library."
-msgstr "أنواع السمات (traits) في المكتبة القياسية: جولة في المكتبة القياسية الغنية لـ Rust."
+msgstr ""
+"أنواع السمات (traits) في المكتبة القياسية: جولة في المكتبة القياسية الغنية "
+"لـ Rust."
 
 #: src/welcome-day-2.md
 msgid "[Welcome](./welcome-day-2.md) (3 minutes)"
@@ -5175,7 +5175,9 @@ msgstr "[الأساليب والسمات](./methods-and-traits.md) (50 دقيق�
 msgid ""
 "Including 10 minute breaks, this session should take about 2 hours and 10 "
 "minutes"
-msgstr "بما في ذلك فترات استراحة لمدة 10 دقائق، يجب أن تستغرق هذه الجلسة حوالي ساعتين و10 دقائق"
+msgstr ""
+"بما في ذلك فترات استراحة لمدة 10 دقائق، يجب أن تستغرق هذه الجلسة حوالي "
+"ساعتين و10 دقائق"
 
 #: src/pattern-matching.md
 msgid "[Matching Values](./pattern-matching/match.md) (10 minutes)"
@@ -5185,22 +5187,30 @@ msgstr "[مطابقة القيم](./pattern-matching/match.md) (10 دقائق)"
 msgid ""
 "[Destructuring Structs](./pattern-matching/destructuring-structs.md) (4 "
 "minutes)"
-msgstr "[تفكيك الهياكل (Structs)](./pattern-matching/destructuring-structs.md) (4 دقائق)"
+msgstr ""
+"[تفكيك الهياكل (Structs)](./pattern-matching/destructuring-structs.md) (4 "
+"دقائق)"
 
 #: src/pattern-matching.md
 msgid ""
 "[Destructuring Enums](./pattern-matching/destructuring-enums.md) (4 minutes)"
-msgstr "[تفكيك التعدادات (Enums)](./pattern-matching/destructuring-enums.md) (4 دقائق)"
+msgstr ""
+"[تفكيك التعدادات (Enums)](./pattern-matching/destructuring-enums.md) (4 "
+"دقائق)"
 
 #: src/pattern-matching.md
 msgid "[Let Control Flow](./pattern-matching/let-control-flow.md) (10 minutes)"
-msgstr "[السماح بتدفق التحكم (Let Control Flow)](./pattern-matching/let-control-flow.md) (10 دقائق)"
+msgstr ""
+"[السماح بتدفق التحكم (Let Control Flow)](./pattern-matching/let-control-"
+"flow.md) (10 دقائق)"
 
 #: src/pattern-matching.md
 msgid ""
 "[Exercise: Expression Evaluation](./pattern-matching/exercise.md) (30 "
 "minutes)"
-msgstr "[تمرين: تقييم التعبيرات (Expression Evaluation)](./pattern-matching/exercise.md) (30 دقيقة)"
+msgstr ""
+"[تمرين: تقييم التعبيرات (Expression Evaluation)](./pattern-matching/"
+"exercise.md) (30 دقيقة)"
 
 #: src/pattern-matching.md src/std-types.md src/memory-management.md
 #: src/error-handling.md
@@ -5211,7 +5221,9 @@ msgstr "يجب أن يستغرق هذا الجزء حوالي ساعة"
 msgid ""
 "The `match` keyword lets you match a value against one or more _patterns_. "
 "The comparisons are done from top to bottom and the first match wins."
-msgstr "تسمح لك الكلمة المفتاحية `match` بمطابقة قيمة مع نمط أو أكثر. تتم المقارنات من الأعلى إلى الأسفل ويفوز أول تطابق."
+msgstr ""
+"تسمح لك الكلمة المفتاحية `match` بمطابقة قيمة مع نمط أو أكثر. تتم المقارنات "
+"من الأعلى إلى الأسفل ويفوز أول تطابق."
 
 #: src/pattern-matching/match.md
 msgid "The patterns can be simple values, similarly to `switch` in C and C++:"
@@ -5278,20 +5290,26 @@ msgid ""
 "The `_` pattern is a wildcard pattern which matches any value. The "
 "expressions _must_ be exhaustive, meaning that it covers every possibility, "
 "so `_` is often used as the final catch-all case."
-msgstr "النمط `_` هو نمط عام يطابق أي قيمة. يجب أن تكون التعبيرات شاملة، مما يعني أنها تغطي كل الاحتمالات، لذلك غالبًا ما يُستخدم `_` كحالة نهائية شاملة."
+msgstr ""
+"النمط `_` هو نمط عام يطابق أي قيمة. يجب أن تكون التعبيرات شاملة، مما يعني "
+"أنها تغطي كل الاحتمالات، لذلك غالبًا ما يُستخدم `_` كحالة نهائية شاملة."
 
 #: src/pattern-matching/match.md
 msgid ""
 "Match can be used as an expression. Just like `if`, each match arm must have "
 "the same type. The type is the last expression of the block, if any. In the "
 "example above, the type is `()`."
-msgstr "يمكن استخدام (Match) كتعبير. تمامًا مثل `if`، يجب أن يكون لكل ذراع مطابقة نفس النوع. النوع هو آخر تعبير في الكتلة، إن وجد. في المثال أعلاه، النوع هو `()`."
+msgstr ""
+"يمكن استخدام (Match) كتعبير. تمامًا مثل `if`، يجب أن يكون لكل ذراع مطابقة نفس "
+"النوع. النوع هو آخر تعبير في الكتلة، إن وجد. في المثال أعلاه، النوع هو `()`."
 
 #: src/pattern-matching/match.md
 msgid ""
 "A variable in the pattern (`key` in this example) will create a binding that "
 "can be used within the match arm."
-msgstr "المتغير في النمط (`key` في هذا المثال) سيُنشئ ارتباطًا يمكن استخدامه داخل ذراع المطابقة."
+msgstr ""
+"المتغير في النمط (`key` في هذا المثال) سيُنشئ ارتباطًا يمكن استخدامه داخل ذراع "
+"المطابقة."
 
 #: src/pattern-matching/match.md
 msgid "A match guard causes the arm to match only if the condition is true."
@@ -5324,7 +5342,9 @@ msgid ""
 "Match guards as a separate syntax feature are important and necessary when "
 "we wish to concisely express more complex ideas than patterns alone would "
 "allow."
-msgstr "حراس المطابقة كميزة تركيبية منفصلة مهمة وضرورية عندما نرغب في التعبير بشكل موجز عن أفكار أكثر تعقيدًا مما تسمح به الأنماط وحدها."
+msgstr ""
+"حراس المطابقة كميزة تركيبية منفصلة مهمة وضرورية عندما نرغب في التعبير بشكل "
+"موجز عن أفكار أكثر تعقيدًا مما تسمح به الأنماط وحدها."
 
 #: src/pattern-matching/match.md
 msgid ""
@@ -5332,7 +5352,10 @@ msgid ""
 "An `if` expression inside of the branch block (after `=>`) happens after the "
 "match arm is selected. Failing the `if` condition inside of that block won't "
 "result in other arms of the original `match` expression being considered."
-msgstr "إنها ليست مثل تعبير `if` منفصل داخل ذراع المطابقة. يحدث تعبير `if` داخل كتلة الفرع (بعد `=>`) بعد اختيار ذراع المطابقة. فشل شرط `if` داخل تلك الكتلة لن يؤدي إلى اعتبار أذرع أخرى من تعبير `match` الأصلي."
+msgstr ""
+"إنها ليست مثل تعبير `if` منفصل داخل ذراع المطابقة. يحدث تعبير `if` داخل كتلة "
+"الفرع (بعد `=>`) بعد اختيار ذراع المطابقة. فشل شرط `if` داخل تلك الكتلة لن "
+"يؤدي إلى اعتبار أذرع أخرى من تعبير `match` الأصلي."
 
 #: src/pattern-matching/match.md
 msgid ""
@@ -5346,7 +5369,8 @@ msgstr "الهياكل (Structs)"
 
 #: src/pattern-matching/destructuring-structs.md
 msgid "Like tuples, Struct can also be destructured by matching:"
-msgstr "مثل المجموعات (tuples)، يمكن أيضًا تفكيك الهيكل (Struct) عن طريق المطابقة:"
+msgstr ""
+"مثل المجموعات (tuples)، يمكن أيضًا تفكيك الهيكل (Struct) عن طريق المطابقة:"
 
 #: src/pattern-matching/destructuring-structs.md
 msgid "\"x.0 = 1, b = {b}, y = {y}\""
@@ -5373,18 +5397,24 @@ msgid ""
 "The distinction between a capture and a constant expression can be hard to "
 "spot. Try changing the `2` in the second arm to a variable, and see that it "
 "subtly doesn't work. Change it to a `const` and see it working again."
-msgstr "قد يكون من الصعب تمييز الفرق بين الالتقاط والتعبير الثابت. حاول تغيير `2` في الذراع الثانية إلى متغير، وسترى أنه لا يعمل بشكل دقيق. قم بتغييره إلى `const` وسترى أنه يعمل مرة أخرى."
+msgstr ""
+"قد يكون من الصعب تمييز الفرق بين الالتقاط والتعبير الثابت. حاول تغيير `2` في "
+"الذراع الثانية إلى متغير، وسترى أنه لا يعمل بشكل دقيق. قم بتغييره إلى "
+"`const` وسترى أنه يعمل مرة أخرى."
 
 #: src/pattern-matching/destructuring-enums.md
 msgid "Like tuples, enums can also be destructured by matching:"
-msgstr "مثل المجموعات (tuples)، يمكن أيضًا تفكيك التعدادات (enums) عن طريق المطابقة:"
+msgstr ""
+"مثل المجموعات (tuples)، يمكن أيضًا تفكيك التعدادات (enums) عن طريق المطابقة:"
 
 #: src/pattern-matching/destructuring-enums.md
 msgid ""
 "Patterns can also be used to bind variables to parts of your values. This is "
 "how you inspect the structure of your types. Let us start with a simple "
 "`enum` type:"
-msgstr "يمكن أيضًا استخدام الأنماط لربط المتغيرات بأجزاء من القيم الخاصة بك. هذه هي الطريقة التي تفحص بها بنية الأنواع الخاصة بك. دعونا نبدأ بنوع `enum` بسيط:"
+msgstr ""
+"يمكن أيضًا استخدام الأنماط لربط المتغيرات بأجزاء من القيم الخاصة بك. هذه هي "
+"الطريقة التي تفحص بها بنية الأنواع الخاصة بك. دعونا نبدأ بنوع `enum` بسيط:"
 
 #: src/pattern-matching/destructuring-enums.md
 msgid "\"cannot divide {n} into two equal parts\""
@@ -5403,48 +5433,67 @@ msgid ""
 "Here we have used the arms to _destructure_ the `Result` value. In the first "
 "arm, `half` is bound to the value inside the `Ok` variant. In the second "
 "arm, `msg` is bound to the error message."
-msgstr "هنا استخدمنا الأذرع لتفكيك (_destructure_) قيمة `Result`. في الذراع الأولى، يتم ربط `half` بالقيمة داخل المتغير `Ok`. في الذراع الثانية، يتم ربط `msg` برسالة الخطأ."
+msgstr ""
+"هنا استخدمنا الأذرع لتفكيك (_destructure_) قيمة `Result`. في الذراع الأولى، "
+"يتم ربط `half` بالقيمة داخل المتغير `Ok`. في الذراع الثانية، يتم ربط `msg` "
+"برسالة الخطأ."
 
 #: src/pattern-matching/destructuring-enums.md
 msgid ""
 "The `if`/`else` expression is returning an enum that is later unpacked with "
 "a `match`."
-msgstr "تعبير `if`/`else` يعيد تعدادًا (enum) يتم تفكيكه لاحقًا باستخدام `match`."
+msgstr ""
+"تعبير `if`/`else` يعيد تعدادًا (enum) يتم تفكيكه لاحقًا باستخدام `match`."
 
 #: src/pattern-matching/destructuring-enums.md
 msgid ""
 "You can try adding a third variant to the enum definition and displaying the "
 "errors when running the code. Point out the places where your code is now "
 "inexhaustive and how the compiler tries to give you hints."
-msgstr "يمكنك محاولة إضافة نوع ثالث إلى تعريف التعداد (enum) وعرض الأخطاء عند تشغيل الكود. أشر إلى الأماكن التي يكون فيها الكود غير شامل وكيف يحاول المترجم (compiler) إعطائك تلميحات."
+msgstr ""
+"يمكنك محاولة إضافة نوع ثالث إلى تعريف التعداد (enum) وعرض الأخطاء عند تشغيل "
+"الكود. أشر إلى الأماكن التي يكون فيها الكود غير شامل وكيف يحاول المترجم "
+"(compiler) إعطائك تلميحات."
 
 #: src/pattern-matching/destructuring-enums.md
 msgid ""
 "The values in the enum variants can only be accessed after being pattern "
 "matched."
-msgstr "يمكن الوصول إلى القيم في أنواع التعداد (enum variants) فقط بعد مطابقتها بالنمط (pattern matched)."
+msgstr ""
+"يمكن الوصول إلى القيم في أنواع التعداد (enum variants) فقط بعد مطابقتها "
+"بالنمط (pattern matched)."
 
 #: src/pattern-matching/destructuring-enums.md
 msgid ""
 "Demonstrate what happens when the search is inexhaustive. Note the advantage "
 "the Rust compiler provides by confirming when all cases are handled."
-msgstr "أظهر ما يحدث عندما يكون البحث غير شامل. لاحظ الفائدة التي يوفرها مترجم Rust بتأكيده عندما يتم التعامل مع جميع الحالات."
+msgstr ""
+"أظهر ما يحدث عندما يكون البحث غير شامل. لاحظ الفائدة التي يوفرها مترجم Rust "
+"بتأكيده عندما يتم التعامل مع جميع الحالات."
 
 #: src/pattern-matching/destructuring-enums.md
 msgid ""
 "Save the result of `divide_in_two` in the `result` variable and `match` it "
 "in a loop. That won't compile because `msg` is consumed when matched. To fix "
 "it, match `&result` instead of `result`. That will make `msg` a reference so "
-"it won't be consumed. This [\"match ergonomics\"](https://rust-lang.github."
-"io/rfcs/2005-match-ergonomics.html) appeared in Rust 2018. If you want to "
-"support older Rust, replace `msg` with `ref msg` in the pattern."
-msgstr "احفظ نتيجة `divide_in_two` في المتغير `result` و `match` في حلقة. لن يتم تجميع ذلك لأن `msg` يتم استهلاكه عند المطابقة. لإصلاح ذلك، قم بمطابقة `&result` بدلاً من `result`. سيجعل ذلك `msg` مرجعًا حتى لا يتم استهلاكه. ظهرت هذه [\"match ergonomics\"](https://rust-lang.github.io/rfcs/2005-match-ergonomics.html) في Rust 2018. إذا كنت تريد دعم Rust الأقدم، استبدل `msg` بـ `ref msg` في النمط."
+"it won't be consumed. This [\"match ergonomics\"](https://rust-"
+"lang.github.io/rfcs/2005-match-ergonomics.html) appeared in Rust 2018. If "
+"you want to support older Rust, replace `msg` with `ref msg` in the pattern."
+msgstr ""
+"احفظ نتيجة `divide_in_two` في المتغير `result` و `match` في حلقة. لن يتم "
+"تجميع ذلك لأن `msg` يتم استهلاكه عند المطابقة. لإصلاح ذلك، قم بمطابقة "
+"`&result` بدلاً من `result`. سيجعل ذلك `msg` مرجعًا حتى لا يتم استهلاكه. ظهرت "
+"هذه [\"match ergonomics\"](https://rust-lang.github.io/rfcs/2005-match-"
+"ergonomics.html) في Rust 2018. إذا كنت تريد دعم Rust الأقدم، استبدل `msg` بـ "
+"`ref msg` في النمط."
 
 #: src/pattern-matching/let-control-flow.md
 msgid ""
 "Rust has a few control flow constructs which differ from other languages. "
 "They are used for pattern matching:"
-msgstr "لدى Rust بعض تراكيب التحكم في التدفق التي تختلف عن اللغات الأخرى. يتم استخدامها لمطابقة الأنماط (pattern matching):"
+msgstr ""
+"لدى Rust بعض تراكيب التحكم في التدفق التي تختلف عن اللغات الأخرى. يتم "
+"استخدامها لمطابقة الأنماط (pattern matching):"
 
 #: src/pattern-matching/let-control-flow.md
 msgid "`if let` expressions"
@@ -5463,7 +5512,10 @@ msgid ""
 "The [`if let` expression](https://doc.rust-lang.org/reference/expressions/if-"
 "expr.html#if-let-expressions) lets you execute different code depending on "
 "whether a value matches a pattern:"
-msgstr "تسمح لك [تعبير `if let`](https://doc.rust-lang.org/reference/expressions/if-expr.html#if-let-expressions) بتنفيذ كود مختلف بناءً على ما إذا كانت القيمة تطابق نمطًا:"
+msgstr ""
+"تسمح لك [تعبير `if let`](https://doc.rust-lang.org/reference/expressions/if-"
+"expr.html#if-let-expressions) بتنفيذ كود مختلف بناءً على ما إذا كانت القيمة "
+"تطابق نمطًا:"
 
 #: src/pattern-matching/let-control-flow.md
 msgid "\"slept for {:?}\""
@@ -5475,7 +5527,11 @@ msgid ""
 "use [`let else`](https://doc.rust-lang.org/rust-by-example/flow_control/"
 "let_else.html). The \"else\" case must diverge (`return`, `break`, or panic "
 "- anything but falling off the end of the block)."
-msgstr "في الحالة الشائعة لمطابقة نمط والعودة من الدالة، استخدم [`let else`](https://doc.rust-lang.org/rust-by-example/flow_control/let_else.html). يجب أن تتفرع حالة \"else\" (`return`, `break`, أو panic - أي شيء عدا السقوط من نهاية الكتلة)."
+msgstr ""
+"في الحالة الشائعة لمطابقة نمط والعودة من الدالة، استخدم [`let else`](https://"
+"doc.rust-lang.org/rust-by-example/flow_control/let_else.html). يجب أن تتفرع "
+"حالة \"else\" (`return`, `break`, أو panic - أي شيء عدا السقوط من نهاية "
+"الكتلة)."
 
 #: src/pattern-matching/let-control-flow.md
 msgid "\"got None\""
@@ -5508,10 +5564,10 @@ msgstr ""
 
 #: src/pattern-matching/let-control-flow.md
 msgid ""
-"Here [`String::pop`](https://doc.rust-lang.org/stable/std/string/struct."
-"String.html#method.pop) returns `Some(c)` until the string is empty, after "
-"which it will return `None`. The `while let` lets us keep iterating through "
-"all items."
+"Here [`String::pop`](https://doc.rust-lang.org/stable/std/string/"
+"struct.String.html#method.pop) returns `Some(c)` until the string is empty, "
+"after which it will return `None`. The `while let` lets us keep iterating "
+"through all items."
 msgstr ""
 
 #: src/pattern-matching/let-control-flow.md
@@ -5580,8 +5636,8 @@ msgstr ""
 #: src/pattern-matching/exercise.md
 msgid ""
 "Some expressions cannot be evaluated and will return an error. The standard "
-"[`Result<Value, String>`](https://doc.rust-lang.org/std/result/enum.Result."
-"html) type is an enum that represents either a successful value "
+"[`Result<Value, String>`](https://doc.rust-lang.org/std/result/"
+"enum.Result.html) type is an enum that represents either a successful value "
 "(`Ok(Value)`) or an error (`Err(String)`). We will cover this type in detail "
 "later."
 msgstr ""
@@ -6143,8 +6199,8 @@ msgid ""
 "In fact, Rust requires that at most one implementation of a trait match for "
 "any type T. Unlike some other languages, Rust has no heuristic for choosing "
 "the \"most specific\" match. There is work on adding this support, called "
-"[specialization](https://rust-lang.github.io/rfcs/1210-impl-specialization."
-"html)."
+"[specialization](https://rust-lang.github.io/rfcs/1210-impl-"
+"specialization.html)."
 msgstr ""
 
 #: src/generics/trait-bounds.md
@@ -6359,9 +6415,9 @@ msgstr ""
 
 #: src/generics/exercise.md
 msgid ""
-"Show students the [`Ord`](https://doc.rust-lang.org/stable/std/cmp/trait.Ord."
-"html) trait and [`Ordering`](https://doc.rust-lang.org/stable/std/cmp/enum."
-"Ordering.html) enum."
+"Show students the [`Ord`](https://doc.rust-lang.org/stable/std/cmp/"
+"trait.Ord.html) trait and [`Ordering`](https://doc.rust-lang.org/stable/std/"
+"cmp/enum.Ordering.html) enum."
 msgstr ""
 
 #: src/std-types.md
@@ -6444,8 +6500,8 @@ msgstr ""
 
 #: src/std-types/docs.md
 msgid ""
-"Primitive types like [`u8`](https://doc.rust-lang.org/stable/std/primitive."
-"u8.html)."
+"Primitive types like [`u8`](https://doc.rust-lang.org/stable/std/"
+"primitive.u8.html)."
 msgstr ""
 
 #: src/std-types/docs.md
@@ -6717,8 +6773,8 @@ msgstr ""
 
 #: src/std-types/string.md
 msgid ""
-"Many types can be converted to a string with the [`to_string`](https://doc."
-"rust-lang.org/std/string/trait.ToString.html#tymethod.to_string) method. "
+"Many types can be converted to a string with the [`to_string`](https://"
+"doc.rust-lang.org/std/string/trait.ToString.html#tymethod.to_string) method. "
 "This trait is automatically implemented for all types that implement "
 "`Display`, so anything that can be formatted can also be converted to a "
 "string."
@@ -6891,10 +6947,10 @@ msgstr ""
 
 #: src/std-types/hashmap.md
 msgid ""
-"This type has several \"method-specific\" return types, such as `std::"
-"collections::hash_map::Keys`. These types often appear in searches of the "
-"Rust docs. Show students the docs for this type, and the helpful link back "
-"to the `keys` method."
+"This type has several \"method-specific\" return types, such as "
+"`std::collections::hash_map::Keys`. These types often appear in searches of "
+"the Rust docs. Show students the docs for this type, and the helpful link "
+"back to the `keys` method."
 msgstr ""
 
 #: src/std-types/exercise.md
@@ -7050,8 +7106,8 @@ msgstr ""
 
 #: src/std-traits/operators.md
 msgid ""
-"Operator overloading is implemented via traits in [`std::ops`](https://doc."
-"rust-lang.org/std/ops/index.html):"
+"Operator overloading is implemented via traits in [`std::ops`](https://"
+"doc.rust-lang.org/std/ops/index.html):"
 msgstr ""
 
 #: src/std-traits/operators.md
@@ -7095,9 +7151,9 @@ msgstr ""
 
 #: src/std-traits/from-and-into.md
 msgid ""
-"Types implement [`From`](https://doc.rust-lang.org/std/convert/trait.From."
-"html) and [`Into`](https://doc.rust-lang.org/std/convert/trait.Into.html) to "
-"facilitate type conversions:"
+"Types implement [`From`](https://doc.rust-lang.org/std/convert/"
+"trait.From.html) and [`Into`](https://doc.rust-lang.org/std/convert/"
+"trait.Into.html) to facilitate type conversions:"
 msgstr ""
 
 #: src/std-traits/from-and-into.md
@@ -7288,9 +7344,10 @@ msgstr ""
 #: src/std-traits/closures.md
 msgid ""
 "Closures or lambda expressions have types which cannot be named. However, "
-"they implement special [`Fn`](https://doc.rust-lang.org/std/ops/trait.Fn."
-"html), [`FnMut`](https://doc.rust-lang.org/std/ops/trait.FnMut.html), and "
-"[`FnOnce`](https://doc.rust-lang.org/std/ops/trait.FnOnce.html) traits:"
+"they implement special [`Fn`](https://doc.rust-lang.org/std/ops/"
+"trait.Fn.html), [`FnMut`](https://doc.rust-lang.org/std/ops/"
+"trait.FnMut.html), and [`FnOnce`](https://doc.rust-lang.org/std/ops/"
+"trait.FnOnce.html) traits:"
 msgstr ""
 
 #: src/std-traits/closures.md
@@ -7796,8 +7853,8 @@ msgstr ""
 
 #: src/memory-management/move.md
 msgid ""
-"Alternatively, `main` can pass a clone of `name` in the first call (`name."
-"clone()`)."
+"Alternatively, `main` can pass a clone of `name` in the first call "
+"(`name.clone()`)."
 msgstr ""
 
 #: src/memory-management/move.md
@@ -7885,8 +7942,8 @@ msgstr ""
 
 #: src/memory-management/clone.md
 msgid ""
-"`clone` generally performs a deep copy of the value, meaning that if you e."
-"g. clone an array, all of the elements of the array are cloned as well."
+"`clone` generally performs a deep copy of the value, meaning that if you "
+"e.g. clone an array, all of the elements of the array are cloned as well."
 msgstr ""
 
 #: src/memory-management/clone.md
@@ -7975,8 +8032,8 @@ msgstr ""
 
 #: src/memory-management/drop.md
 msgid ""
-"Values which implement [`Drop`](https://doc.rust-lang.org/std/ops/trait.Drop."
-"html) can specify code to run when they go out of scope:"
+"Values which implement [`Drop`](https://doc.rust-lang.org/std/ops/"
+"trait.Drop.html) can specify code to run when they go out of scope:"
 msgstr ""
 
 #: src/memory-management/drop.md
@@ -8022,8 +8079,8 @@ msgstr ""
 
 #: src/memory-management/drop.md
 msgid ""
-"When a value is dropped, if it implements `std::ops::Drop` then its `Drop::"
-"drop` implementation will be called."
+"When a value is dropped, if it implements `std::ops::Drop` then its "
+"`Drop::drop` implementation will be called."
 msgstr ""
 
 #: src/memory-management/drop.md
@@ -8341,15 +8398,16 @@ msgstr ""
 
 #: src/smart-pointers/rc.md
 msgid ""
-"See [`Arc`](../concurrency/shared_state/arc.md) and [`Mutex`](https://doc."
-"rust-lang.org/std/sync/struct.Mutex.html) if you are in a multi-threaded "
+"See [`Arc`](../concurrency/shared_state/arc.md) and [`Mutex`](https://"
+"doc.rust-lang.org/std/sync/struct.Mutex.html) if you are in a multi-threaded "
 "context."
 msgstr ""
 
 #: src/smart-pointers/rc.md
 msgid ""
-"You can _downgrade_ a shared pointer into a [`Weak`](https://doc.rust-lang."
-"org/std/rc/struct.Weak.html) pointer to create cycles that will get dropped."
+"You can _downgrade_ a shared pointer into a [`Weak`](https://doc.rust-"
+"lang.org/std/rc/struct.Weak.html) pointer to create cycles that will get "
+"dropped."
 msgstr ""
 
 #: src/smart-pointers/rc.md
@@ -8438,16 +8496,16 @@ msgid ""
 "vtable                    :\n"
 "                                  :     |     |      +----------------------"
 "+   :\n"
-"                                  :     |     `----->| \"<Dog as Pet>::"
-"talk\" |   :\n"
+"                                  :     |     `----->| \"<Dog as "
+"Pet>::talk\" |   :\n"
 "                                  :     |            +----------------------"
 "+   :\n"
 "                                  :     |             "
 "vtable                    :\n"
 "                                  :     |            +----------------------"
 "+   :\n"
-"                                  :     '----------->| \"<Cat as Pet>::"
-"talk\" |   :\n"
+"                                  :     '----------->| \"<Cat as "
+"Pet>::talk\" |   :\n"
 "                                  :                  +----------------------"
 "+   :\n"
 "                                  :                                             :\n"
@@ -8477,8 +8535,8 @@ msgstr ""
 #: src/smart-pointers/trait-objects.md
 msgid ""
 "A fat pointer is a double-width pointer. It has two components: a pointer to "
-"the actual object and a pointer to the [virtual method table](https://en."
-"wikipedia.org/wiki/Virtual_method_table) (vtable) for the `Pet` "
+"the actual object and a pointer to the [virtual method table](https://"
+"en.wikipedia.org/wiki/Virtual_method_table) (vtable) for the `Pet` "
 "implementation of that particular object."
 msgstr ""
 
@@ -9472,9 +9530,9 @@ msgstr ""
 
 #: src/modules/filesystem.md
 msgid ""
-"This tells rust that the `garden` module content is found at `src/garden."
-"rs`. Similarly, a `garden::vegetables` module can be found at `src/garden/"
-"vegetables.rs`."
+"This tells rust that the `garden` module content is found at `src/"
+"garden.rs`. Similarly, a `garden::vegetables` module can be found at `src/"
+"garden/vegetables.rs`."
 msgstr ""
 
 #: src/modules/filesystem.md
@@ -9523,8 +9581,9 @@ msgstr ""
 
 #: src/modules/filesystem.md
 msgid ""
-"The main reason to introduce `filename.rs` as alternative to `filename/mod."
-"rs` was because many files named `mod.rs` can be hard to distinguish in IDEs."
+"The main reason to introduce `filename.rs` as alternative to `filename/"
+"mod.rs` was because many files named `mod.rs` can be hard to distinguish in "
+"IDEs."
 msgstr ""
 
 #: src/modules/filesystem.md
@@ -10368,10 +10427,10 @@ msgstr ""
 
 #: src/error-handling/try.md
 msgid ""
-"Note that `main` can return a `Result<(), E>` as long as it implements `std::"
-"process::Termination`. In practice, this means that `E` implements `Debug`. "
-"The executable will print the `Err` variant and return a nonzero exit status "
-"on error."
+"Note that `main` can return a `Result<(), E>` as long as it implements "
+"`std::process::Termination`. In practice, this means that `E` implements "
+"`Debug`. The executable will print the `Err` variant and return a nonzero "
+"exit status on error."
 msgstr ""
 
 #: src/error-handling/try-conversions.md
@@ -10439,9 +10498,9 @@ msgstr ""
 #: src/error-handling/error.md
 msgid ""
 "Sometimes we want to allow any type of error to be returned without writing "
-"our own enum covering all the different possibilities. The `std::error::"
-"Error` trait makes it easy to create a trait object that can contain any "
-"error."
+"our own enum covering all the different possibilities. The "
+"`std::error::Error` trait makes it easy to create a trait object that can "
+"contain any error."
 msgstr ""
 
 #: src/error-handling/error.md
@@ -10931,9 +10990,9 @@ msgstr ""
 #: src/unsafe-rust/unions.md
 msgid ""
 "If you just want to reinterpret bytes as a different type, you probably want "
-"[`std::mem::transmute`](https://doc.rust-lang.org/stable/std/mem/fn."
-"transmute.html) or a safe wrapper such as the [`zerocopy`](https://crates.io/"
-"crates/zerocopy) crate."
+"[`std::mem::transmute`](https://doc.rust-lang.org/stable/std/mem/"
+"fn.transmute.html) or a safe wrapper such as the [`zerocopy`](https://"
+"crates.io/crates/zerocopy) crate."
 msgstr ""
 
 #: src/unsafe-rust/unsafe-functions.md
@@ -11545,9 +11604,9 @@ msgstr ""
 #: src/android/build-rules.md
 msgid ""
 "There is a plan to transition [Android](https://source.android.com/docs/"
-"setup/build/bazel/introduction), [ChromeOS](https://chromium.googlesource."
-"com/chromiumos/bazel/), and [Fuchsia](https://source.android.com/docs/setup/"
-"build/bazel/introduction) to Bazel."
+"setup/build/bazel/introduction), [ChromeOS](https://"
+"chromium.googlesource.com/chromiumos/bazel/), and [Fuchsia](https://"
+"source.android.com/docs/setup/build/bazel/introduction) to Bazel."
 msgstr ""
 
 #: src/android/build-rules.md
@@ -11691,8 +11750,8 @@ msgstr ""
 
 #: src/android/aidl.md
 msgid ""
-"The [Android Interface Definition Language (AIDL)](https://developer.android."
-"com/guide/components/aidl) is supported in Rust:"
+"The [Android Interface Definition Language (AIDL)](https://"
+"developer.android.com/guide/components/aidl) is supported in Rust:"
 msgstr ""
 
 #: src/android/aidl.md
@@ -11755,8 +11814,9 @@ msgstr ""
 #: src/android/aidl/example-service/interface.md
 msgid ""
 "Note that the directory structure under the `aidl/` directory needs to match "
-"the package name used in the AIDL file, i.e. the package is `com.example."
-"birthdayservice` and the file is at `aidl/com/example/IBirthdayService.aidl`."
+"the package name used in the AIDL file, i.e. the package is "
+"`com.example.birthdayservice` and the file is at `aidl/com/example/"
+"IBirthdayService.aidl`."
 msgstr ""
 
 #: src/android/aidl/example-service/service-bindings.md
@@ -12250,8 +12310,8 @@ msgstr ""
 
 #: src/android/aidl/types/objects.md
 msgid ""
-"**birthday_service/aidl/com/example/birthdayservice/IBirthdayInfoProvider."
-"aidl**:"
+"**birthday_service/aidl/com/example/birthdayservice/"
+"IBirthdayInfoProvider.aidl**:"
 msgstr ""
 
 #: src/android/aidl/types/objects.md src/android/aidl/types/parcelables.md
@@ -12484,8 +12544,8 @@ msgstr ""
 #: src/android/testing/googletest.md
 msgid ""
 "The `use googletest::prelude::*;` line imports a number of [commonly used "
-"macros and types](https://docs.rs/googletest/latest/googletest/prelude/index."
-"html)."
+"macros and types](https://docs.rs/googletest/latest/googletest/prelude/"
+"index.html)."
 msgstr ""
 
 #: src/android/testing/googletest.md
@@ -13171,9 +13231,9 @@ msgstr ""
 #: src/android/interoperability/cpp/cpp-exception.md
 msgid ""
 "If an exception is thrown from an extern \"C++\" function that is not "
-"declared by the CXX bridge to return `Result`, the program calls C++'s `std::"
-"terminate`. The behavior is equivalent to the same exception being thrown "
-"through a `noexcept` C++ function."
+"declared by the CXX bridge to return `Result`, the program calls C++'s "
+"`std::terminate`. The behavior is equivalent to the same exception being "
+"thrown through a `noexcept` C++ function."
 msgstr ""
 
 #: src/android/interoperability/cpp/type-mapping.md
@@ -13392,9 +13452,9 @@ msgstr ""
 
 #: src/android/interoperability/java.md
 msgid ""
-"Java can load shared objects via [Java Native Interface (JNI)](https://en."
-"wikipedia.org/wiki/Java_Native_Interface). The [`jni` crate](https://docs.rs/"
-"jni/) allows you to create a compatible library."
+"Java can load shared objects via [Java Native Interface (JNI)](https://"
+"en.wikipedia.org/wiki/Java_Native_Interface). The [`jni` crate](https://"
+"docs.rs/jni/) allows you to create a compatible library."
 msgstr ""
 
 #: src/android/interoperability/java.md
@@ -13550,8 +13610,8 @@ msgstr ""
 
 #: src/chromium/cargo.md
 msgid ""
-"Use `gn` and `ninja` with the help of the templates from `//build/rust/*."
-"gni` (e.g. `rust_static_library` that we'll meet later). This uses "
+"Use `gn` and `ninja` with the help of the templates from `//build/rust/"
+"*.gni` (e.g. `rust_static_library` that we'll meet later). This uses "
 "Chromium's audited toolchain and crates."
 msgstr ""
 
@@ -13619,8 +13679,8 @@ msgstr ""
 
 #: src/chromium/cargo.md
 msgid ""
-"`cargo` makes it easy to try a library (just add a single line to `Cargo."
-"toml` and start writing code)"
+"`cargo` makes it easy to try a library (just add a single line to "
+"`Cargo.toml` and start writing code)"
 msgstr ""
 
 #: src/chromium/cargo.md
@@ -13761,10 +13821,10 @@ msgstr ""
 #: src/chromium/policy.md
 msgid ""
 "Chromium's policy on third party libraries is outlined [here](https://"
-"chromium.googlesource.com/chromium/src/+/main/docs/adding_to_third_party."
-"md#rust) - Rust is allowed for third party libraries under various "
-"circumstances, including if they're the best option for performance or for "
-"security."
+"chromium.googlesource.com/chromium/src/+/main/docs/"
+"adding_to_third_party.md#rust) - Rust is allowed for third party libraries "
+"under various circumstances, including if they're the best option for "
+"performance or for security."
 msgstr ""
 
 #: src/chromium/policy.md
@@ -13879,10 +13939,10 @@ msgstr ""
 #: src/chromium/build-rules.md
 msgid ""
 "Students might be wondering why we need a gn template, rather than using "
-"[gn's built-in support for Rust static libraries](https://gn.googlesource."
-"com/gn/+/main/docs/reference.md#func_static_library). The answer is that "
-"this template provides support for CXX interop, Rust features, and unit "
-"tests, some of which we'll use later."
+"[gn's built-in support for Rust static libraries](https://"
+"gn.googlesource.com/gn/+/main/docs/reference.md#func_static_library). The "
+"answer is that this template provides support for CXX interop, Rust "
+"features, and unit tests, some of which we'll use later."
 msgstr ""
 
 #: src/chromium/build-rules/unsafe.md
@@ -14069,8 +14129,8 @@ msgstr ""
 
 #: src/exercises/chromium/build-rules.md
 msgid ""
-"Information about [`extern \"C\"`](https://doc.rust-lang.org/std/keyword."
-"extern.html)"
+"Information about [`extern \"C\"`](https://doc.rust-lang.org/std/"
+"keyword.extern.html)"
 msgstr ""
 
 #: src/exercises/chromium/build-rules.md
@@ -14109,8 +14169,8 @@ msgstr ""
 #: src/chromium/testing.md
 msgid ""
 "Rust community typically authors unit tests in a module placed in the same "
-"source file as the code being tested. This was covered [earlier](../testing."
-"md) in the course and looks like this:"
+"source file as the code being tested. This was covered [earlier](../"
+"testing.md) in the course and looks like this:"
 msgstr ""
 
 #: src/chromium/testing.md
@@ -14261,10 +14321,10 @@ msgstr ""
 
 #: src/chromium/testing/chromium-import-macro.md
 msgid ""
-"More information can be found in [the doc comment](https://source.chromium."
-"org/chromium/chromium/src/+/main:build/rust/chromium_prelude/"
-"chromium_prelude.rs?q=f:chromium_prelude.rs%20pub.use.*%5Cbimport%5Cb;%20-f:"
-"third_party&ss=chromium%2Fchromium%2Fsrc) of the `chromium::import` macro."
+"More information can be found in [the doc comment](https://"
+"source.chromium.org/chromium/chromium/src/+/main:build/rust/chromium_prelude/"
+"chromium_prelude.rs?q=f:chromium_prelude.rs%20pub.use.*%5Cbimport%5Cb;%20-"
+"f:third_party&ss=chromium%2Fchromium%2Fsrc) of the `chromium::import` macro."
 msgstr ""
 
 #: src/chromium/testing/chromium-import-macro.md
@@ -14357,10 +14417,10 @@ msgstr ""
 #: src/chromium/interoperability-with-cpp.md
 msgid ""
 "`&[T]` can be passed across the FFI boundary, even though it doesn't "
-"guarantee any particular ABI or memory layout. With manual bindings `std::"
-"span<T>` / `&[T]` have to be manually destructured and rebuilt out of a "
-"pointer and length - this is error-prone given that each language represents "
-"empty slices slightly differently)"
+"guarantee any particular ABI or memory layout. With manual bindings "
+"`std::span<T>` / `&[T]` have to be manually destructured and rebuilt out of "
+"a pointer and length - this is error-prone given that each language "
+"represents empty slices slightly differently)"
 msgstr ""
 
 #: src/chromium/interoperability-with-cpp.md
@@ -14537,10 +14597,10 @@ msgstr ""
 #: src/chromium/interoperability-with-cpp/error-handling-qr.md
 msgid ""
 "The QR code generator is [an example](https://source.chromium.org/chromium/"
-"chromium/src/+/main:components/qr_code_generator/qr_code_generator_ffi_glue."
-"rs;l=13-18;drc=7bf1b75b910ca430501b9c6a74c1d18a0223ecca) where a boolean is "
-"used to communicate success vs failure, and where the successful result can "
-"be passed across the FFI boundary:"
+"chromium/src/+/main:components/qr_code_generator/"
+"qr_code_generator_ffi_glue.rs;l=13-18;drc=7bf1b75b910ca430501b9c6a74c1d18a0223ecca) "
+"where a boolean is used to communicate success vs failure, and where the "
+"successful result can be passed across the FFI boundary:"
 msgstr ""
 
 #: src/chromium/interoperability-with-cpp/error-handling-qr.md
@@ -14654,8 +14714,8 @@ msgstr ""
 msgid ""
 "You will find some utility functions in `//base` to convert to/from Chromium "
 "C++ types to CXX Rust types --- for example [`SpanToRustSlice`](https://"
-"source.chromium.org/chromium/chromium/src/+/main:base/containers/span_rust.h;"
-"l=21)."
+"source.chromium.org/chromium/chromium/src/+/main:base/containers/"
+"span_rust.h;l=21)."
 msgstr ""
 
 #: src/chromium/interoperability-with-cpp/using-cxx-in-chromium.md
@@ -14749,8 +14809,8 @@ msgstr ""
 
 #: src/exercises/chromium/interoperability-with-cpp.md
 msgid ""
-"You may also need to `#include \"third_party/rust/cxx/v1/crate/include/cxx."
-"h\"`"
+"You may also need to `#include \"third_party/rust/cxx/v1/crate/include/"
+"cxx.h\"`"
 msgstr ""
 
 #: src/exercises/chromium/interoperability-with-cpp.md
@@ -14763,14 +14823,14 @@ msgstr ""
 
 #: src/exercises/chromium/interoperability-with-cpp.md
 msgid ""
-"Intentionally get the Rust function signatures mismatched from the `#[cxx::"
-"bridge]`, and get used to the errors you see."
+"Intentionally get the Rust function signatures mismatched from the "
+"`#[cxx::bridge]`, and get used to the errors you see."
 msgstr ""
 
 #: src/exercises/chromium/interoperability-with-cpp.md
 msgid ""
-"Intentionally get the C++ function signatures mismatched from the `#[cxx::"
-"bridge]`, and get used to the errors you see."
+"Intentionally get the C++ function signatures mismatched from the "
+"`#[cxx::bridge]`, and get used to the errors you see."
 msgstr ""
 
 #: src/exercises/chromium/interoperability-with-cpp.md
@@ -14925,9 +14985,9 @@ msgstr ""
 #: src/chromium/adding-third-party-crates/configuring-cargo-toml.md
 msgid ""
 "Chromium has a single set of centrally-managed direct crate dependencies. "
-"These are managed through a single [`Cargo.toml`](https://source.chromium."
-"org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/Cargo."
-"toml):"
+"These are managed through a single [`Cargo.toml`](https://"
+"source.chromium.org/chromium/chromium/src/+/main:third_party/rust/"
+"chromium_crates_io/Cargo.toml):"
 msgstr ""
 
 #: src/chromium/adding-third-party-crates/configuring-cargo-toml.md
@@ -14958,8 +15018,9 @@ msgstr ""
 #: src/chromium/adding-third-party-crates/configuring-gnrt-config-toml.md
 msgid ""
 "Alongside `Cargo.toml` is [`gnrt_config.toml`](https://source.chromium.org/"
-"chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/gnrt_config."
-"toml). This contains Chromium-specific extensions to crate handling."
+"chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/"
+"gnrt_config.toml). This contains Chromium-specific extensions to crate "
+"handling."
 msgstr ""
 
 #: src/chromium/adding-third-party-crates/configuring-gnrt-config-toml.md
@@ -14987,8 +15048,8 @@ msgstr ""
 
 #: src/chromium/adding-third-party-crates/downloading-crates.md
 msgid ""
-"A tool called `gnrt` knows how to download crates and how to generate `BUILD."
-"gn` rules."
+"A tool called `gnrt` knows how to download crates and how to generate "
+"`BUILD.gn` rules."
 msgstr ""
 
 #: src/chromium/adding-third-party-crates/downloading-crates.md
@@ -15218,8 +15279,8 @@ msgstr ""
 msgid ""
 "```bob\n"
 "                     +------------+      +----------------------+\n"
-"\"//third_party/rust\" | crate name | \"/v\" | major semver version | \":"
-"lib\"\n"
+"\"//third_party/rust\" | crate name | \"/v\" | major semver version | "
+"\":lib\"\n"
 "                     +------------+      +----------------------+\n"
 "```"
 msgstr ""
@@ -15242,9 +15303,9 @@ msgstr ""
 #: src/chromium/adding-third-party-crates/reviews-and-audits.md
 msgid ""
 "Adding new libraries is subject to Chromium's standard [policies](https://"
-"chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/rust."
-"md#Third_party-review), but of course also subject to security review. As "
-"you may be bringing in not just a single crate but also transitive "
+"chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/"
+"rust.md#Third_party-review), but of course also subject to security review. "
+"As you may be bringing in not just a single crate but also transitive "
 "dependencies, there may be a lot of code to review. On the other hand, safe "
 "Rust code can have limited negative side effects. How should you review it?"
 msgstr ""
@@ -15283,8 +15344,8 @@ msgstr ""
 #: src/chromium/adding-third-party-crates/reviews-and-audits.md
 msgid ""
 "Ensure any `unsafe` code is good enough for the [Rule of Two](https://"
-"chromium.googlesource.com/chromium/src/+/main/docs/security/rule-of-2."
-"md#unsafe-code-in-safe-languages)"
+"chromium.googlesource.com/chromium/src/+/main/docs/security/rule-"
+"of-2.md#unsafe-code-in-safe-languages)"
 msgstr ""
 
 #: src/chromium/adding-third-party-crates/reviews-and-audits.md
@@ -15300,8 +15361,9 @@ msgstr ""
 
 #: src/chromium/adding-third-party-crates/reviews-and-audits.md
 msgid ""
-"These are just guidelines --- work with reviewers from `security@chromium."
-"org` to work out the right way to become confident of the crate."
+"These are just guidelines --- work with reviewers from "
+"`security@chromium.org` to work out the right way to become confident of the "
+"crate."
 msgstr ""
 
 #: src/chromium/adding-third-party-crates/checking-in.md
@@ -15328,8 +15390,8 @@ msgstr ""
 
 #: src/chromium/adding-third-party-crates/checking-in.md
 msgid ""
-"You should land all this, along with your `Cargo.toml` and `gnrt_config."
-"toml` changes, into the Chromium repo."
+"You should land all this, along with your `Cargo.toml` and "
+"`gnrt_config.toml` changes, into the Chromium repo."
 msgstr ""
 
 #: src/chromium/adding-third-party-crates/checking-in.md
@@ -15349,10 +15411,11 @@ msgstr ""
 #: src/chromium/adding-third-party-crates/keeping-up-to-date.md
 msgid ""
 "As the OWNER of any third party Chromium dependency, you are [expected to "
-"keep it up to date with any security fixes](https://chromium.googlesource."
-"com/chromium/src/+/main/docs/adding_to_third_party.md#add-owners). It is "
-"hoped that we will soon automate this for Rust crates, but for now, it's "
-"still your responsibility just as it is for any other third party dependency."
+"keep it up to date with any security fixes](https://"
+"chromium.googlesource.com/chromium/src/+/main/docs/"
+"adding_to_third_party.md#add-owners). It is hoped that we will soon automate "
+"this for Rust crates, but for now, it's still your responsibility just as it "
+"is for any other third party dependency."
 msgstr ""
 
 #: src/exercises/chromium/third-party.md
@@ -15495,10 +15558,10 @@ msgstr ""
 #: src/exercises/chromium/bringing-it-together.md
 msgid ""
 "If students decide to do the conversion on the Rust side, they'll need to "
-"consider [`String::from_utf16`](https://doc.rust-lang.org/std/string/struct."
-"String.html#method.from_utf16), consider error handling, and consider which "
-"[CXX supported types can transfer a lot of u16s](https://cxx.rs/binding/"
-"slice.html)."
+"consider [`String::from_utf16`](https://doc.rust-lang.org/std/string/"
+"struct.String.html#method.from_utf16), consider error handling, and consider "
+"which [CXX supported types can transfer a lot of u16s](https://cxx.rs/"
+"binding/slice.html)."
 msgstr ""
 
 #: src/exercises/chromium/bringing-it-together.md
@@ -15721,8 +15784,8 @@ msgstr ""
 
 #: src/bare-metal/alloc.md
 msgid ""
-"To use `alloc` you must implement a [global (heap) allocator](https://doc."
-"rust-lang.org/stable/std/alloc/trait.GlobalAlloc.html)."
+"To use `alloc` you must implement a [global (heap) allocator](https://"
+"doc.rust-lang.org/stable/std/alloc/trait.GlobalAlloc.html)."
 msgstr ""
 
 #: src/bare-metal/alloc.md
@@ -15785,8 +15848,8 @@ msgstr ""
 
 #: src/bare-metal/microcontrollers.md
 msgid ""
-"The `cortex_m_rt::entry` macro requires that the function have type `fn() -"
-"> !`, because returning to the reset handler doesn't make sense."
+"The `cortex_m_rt::entry` macro requires that the function have type `fn() "
+"-> !`, because returning to the reset handler doesn't make sense."
 msgstr ""
 
 #: src/bare-metal/microcontrollers.md
@@ -16063,8 +16126,8 @@ msgstr ""
 #: src/bare-metal/microcontrollers/probe-rs.md
 msgid ""
 "`cargo-embed` is a cargo subcommand to build and flash binaries, log RTT "
-"(Real Time Transfers) output and connect GDB. It's configured by an `Embed."
-"toml` file in your project directory."
+"(Real Time Transfers) output and connect GDB. It's configured by an "
+"`Embed.toml` file in your project directory."
 msgstr ""
 
 #: src/bare-metal/microcontrollers/probe-rs.md
@@ -16182,8 +16245,8 @@ msgstr ""
 
 #: src/bare-metal/microcontrollers/other-projects.md
 msgid ""
-"Some platforms have `std` implementations, e.g. [esp-idf](https://esp-rs."
-"github.io/book/overview/using-the-standard-library.html)."
+"Some platforms have `std` implementations, e.g. [esp-idf](https://esp-"
+"rs.github.io/book/overview/using-the-standard-library.html)."
 msgstr ""
 
 #: src/bare-metal/microcontrollers/other-projects.md
@@ -16242,8 +16305,8 @@ msgstr ""
 msgid ""
 "Check the documentation for the [`lsm303agr`](https://docs.rs/lsm303agr/"
 "latest/lsm303agr/) and [`microbit-v2`](https://docs.rs/microbit-v2/latest/"
-"microbit/) crates, as well as the [micro:bit hardware](https://tech.microbit."
-"org/hardware/)."
+"microbit/) crates, as well as the [micro:bit hardware](https://"
+"tech.microbit.org/hardware/)."
 msgstr ""
 
 #: src/exercises/bare-metal/compass.md
@@ -16258,9 +16321,9 @@ msgstr ""
 
 #: src/exercises/bare-metal/compass.md
 msgid ""
-"The LSM303AGR driver needs something implementing the `embedded_hal::i2c::"
-"I2c` trait. The [`microbit::hal::Twim`](https://docs.rs/microbit-v2/latest/"
-"microbit/hal/struct.Twim.html) struct implements this."
+"The LSM303AGR driver needs something implementing the "
+"`embedded_hal::i2c::I2c` trait. The [`microbit::hal::Twim`](https://docs.rs/"
+"microbit-v2/latest/microbit/hal/struct.Twim.html) struct implements this."
 msgstr ""
 
 #: src/exercises/bare-metal/compass.md
@@ -16271,9 +16334,9 @@ msgstr ""
 
 #: src/exercises/bare-metal/compass.md
 msgid ""
-"You can also look at the [nRF52833 datasheet](https://infocenter.nordicsemi."
-"com/pdf/nRF52833_PS_v1.5.pdf) if you want, but it shouldn't be necessary for "
-"this exercise."
+"You can also look at the [nRF52833 datasheet](https://"
+"infocenter.nordicsemi.com/pdf/nRF52833_PS_v1.5.pdf) if you want, but it "
+"shouldn't be necessary for this exercise."
 msgstr ""
 
 #: src/exercises/bare-metal/compass.md
@@ -17161,11 +17224,11 @@ msgstr ""
 #: src/bare-metal/aps/exceptions.md
 msgid ""
 "We can think of exception handlers and our main execution context more or "
-"less like different threads. [`Send` and `Sync`](../../concurrency/send-sync."
-"md) will control what we can share between them, just like with threads. For "
-"example, if we want to share some value between exception handlers and the "
-"rest of the program, and it's `Send` but not `Sync`, then we'll need to wrap "
-"it in something like a `Mutex` and put it in a static."
+"less like different threads. [`Send` and `Sync`](../../concurrency/send-"
+"sync.md) will control what we can share between them, just like with "
+"threads. For example, if we want to share some value between exception "
+"handlers and the rest of the program, and it's `Send` but not `Sync`, then "
+"we'll need to wrap it in something like a `Mutex` and put it in a static."
 msgstr ""
 
 #: src/bare-metal/aps/other-projects.md
@@ -17311,9 +17374,9 @@ msgstr ""
 
 #: src/bare-metal/useful-crates/aarch64-paging.md
 msgid ""
-"This is used in Android for the [Protected VM Firmware](https://cs.android."
-"com/android/platform/superproject/+/master:packages/modules/Virtualization/"
-"pvmfw/)."
+"This is used in Android for the [Protected VM Firmware](https://"
+"cs.android.com/android/platform/superproject/+/master:packages/modules/"
+"Virtualization/pvmfw/)."
 msgstr ""
 
 #: src/bare-metal/useful-crates/aarch64-paging.md
@@ -17414,10 +17477,11 @@ msgstr ""
 
 #: src/bare-metal/android/vmbase.md
 msgid ""
-"For VMs running under crosvm on aarch64, the [vmbase](https://android."
-"googlesource.com/platform/packages/modules/Virtualization/+/refs/heads/"
-"master/vmbase/) library provides a linker script and useful defaults for the "
-"build rules, along with an entry point, UART console logging and more."
+"For VMs running under crosvm on aarch64, the [vmbase](https://"
+"android.googlesource.com/platform/packages/modules/Virtualization/+/refs/"
+"heads/master/vmbase/) library provides a linker script and useful defaults "
+"for the build rules, along with an entry point, UART console logging and "
+"more."
 msgstr ""
 
 #: src/bare-metal/android/vmbase.md
@@ -17480,8 +17544,9 @@ msgstr ""
 
 #: src/exercises/bare-metal/rtc.md
 msgid ""
-"Once the interrupt is enabled, you can put the core to sleep via `arm_gic::"
-"wfi()`, which will cause the core to sleep until it receives an interrupt."
+"Once the interrupt is enabled, you can put the core to sleep via "
+"`arm_gic::wfi()`, which will cause the core to sleep until it receives an "
+"interrupt."
 msgstr ""
 
 #: src/exercises/bare-metal/rtc.md
@@ -17757,9 +17822,9 @@ msgstr ""
 
 #: src/concurrency/welcome.md
 msgid ""
-"The same tools that help with \"concurrent\" access in a single thread (e."
-"g., a called function that might mutate an argument or save references to it "
-"to read later) save us from multi-threading issues."
+"The same tools that help with \"concurrent\" access in a single thread "
+"(e.g., a called function that might mutate an argument or save references to "
+"it to read later) save us from multi-threading issues."
 msgstr ""
 
 #: src/concurrency/threads.md
@@ -17839,8 +17904,8 @@ msgstr ""
 
 #: src/concurrency/threads/plain.md
 msgid ""
-"`JoinHandle` has a [`.join()`](https://doc.rust-lang.org/std/thread/struct."
-"JoinHandle.html#method.join) method that blocks."
+"`JoinHandle` has a [`.join()`](https://doc.rust-lang.org/std/thread/"
+"struct.JoinHandle.html#method.join) method that blocks."
 msgstr ""
 
 #: src/concurrency/threads/plain.md
@@ -17865,8 +17930,8 @@ msgstr ""
 
 #: src/concurrency/threads/plain.md
 msgid ""
-"`JoinHandle` [`.join()`](https://doc.rust-lang.org/std/thread/struct."
-"JoinHandle.html#method.join) returns `thread::Result<T>`"
+"`JoinHandle` [`.join()`](https://doc.rust-lang.org/std/thread/"
+"struct.JoinHandle.html#method.join) returns `thread::Result<T>`"
 msgstr ""
 
 #: src/concurrency/threads/plain.md
@@ -18629,9 +18694,9 @@ msgstr ""
 
 #: src/concurrency/sync-exercises/link-checker.md
 msgid ""
-"Extend this to recursively extract links from all pages on the `www.google."
-"org` domain. Put an upper limit of 100 pages or so so that you don't end up "
-"being blocked by the site."
+"Extend this to recursively extract links from all pages on the "
+"`www.google.org` domain. Put an upper limit of 100 pages or so so that you "
+"don't end up being blocked by the site."
 msgstr ""
 
 #: src/concurrency/sync-exercises/solutions.md
@@ -18992,9 +19057,9 @@ msgstr ""
 
 #: src/concurrency/async/tasks.md
 msgid ""
-"Try connecting to it with a TCP connection tool like [nc](https://www.unix."
-"com/man-page/linux/1/nc/) or [telnet](https://www.unix.com/man-page/linux/1/"
-"telnet/)."
+"Try connecting to it with a TCP connection tool like [nc](https://"
+"www.unix.com/man-page/linux/1/nc/) or [telnet](https://www.unix.com/man-page/"
+"linux/1/telnet/)."
 msgstr ""
 
 #: src/concurrency/async/tasks.md
@@ -19130,9 +19195,9 @@ msgstr ""
 #: src/concurrency/async-control-flow/select.md
 msgid ""
 "A select operation waits until any of a set of futures is ready, and "
-"responds to that future's result. In JavaScript, this is similar to `Promise."
-"race`. In Python, it compares to `asyncio.wait(task_set, return_when=asyncio."
-"FIRST_COMPLETED)`."
+"responds to that future's result. In JavaScript, this is similar to "
+"`Promise.race`. In Python, it compares to `asyncio.wait(task_set, "
+"return_when=asyncio.FIRST_COMPLETED)`."
 msgstr ""
 
 #: src/concurrency/async-control-flow/select.md
@@ -19370,8 +19435,8 @@ msgstr ""
 #: src/concurrency/async-pitfalls/pin.md
 msgid ""
 "This still doesn't work. Follow the compiler errors, adding `&mut` to the "
-"`timeout_fut` in the `select!` to work around the move, then using `Box::"
-"pin`:"
+"`timeout_fut` in the `select!` to work around the move, then using "
+"`Box::pin`:"
 msgstr ""
 
 #: src/concurrency/async-pitfalls/pin.md
@@ -19468,9 +19533,9 @@ msgstr ""
 msgid ""
 "The challenges in language support for `async trait` are deep Rust and "
 "probably not worth describing in-depth. Niko Matsakis did a good job of "
-"explaining them in [this post](https://smallcultfollowing.com/babysteps/"
-"blog/2019/10/26/async-fn-in-traits-are-hard/) if you are interested in "
-"digging deeper."
+"explaining them in [this post](https://smallcultfollowing.com/babysteps/blog/"
+"2019/10/26/async-fn-in-traits-are-hard/) if you are interested in digging "
+"deeper."
 msgstr ""
 
 #: src/concurrency/async-pitfalls/async-traits.md
@@ -19533,23 +19598,24 @@ msgstr ""
 
 #: src/concurrency/async-pitfalls/cancellation.md
 msgid ""
-"[`Interval::tick`](https://docs.rs/tokio/latest/tokio/time/struct.Interval."
-"html#method.tick) is cancellation-safe because it keeps track of whether a "
-"tick has been 'delivered'."
+"[`Interval::tick`](https://docs.rs/tokio/latest/tokio/time/"
+"struct.Interval.html#method.tick) is cancellation-safe because it keeps "
+"track of whether a tick has been 'delivered'."
 msgstr ""
 
 #: src/concurrency/async-pitfalls/cancellation.md
 msgid ""
-"[`AsyncReadExt::read`](https://docs.rs/tokio/latest/tokio/io/trait."
-"AsyncReadExt.html#method.read) is cancellation-safe because it either "
+"[`AsyncReadExt::read`](https://docs.rs/tokio/latest/tokio/io/"
+"trait.AsyncReadExt.html#method.read) is cancellation-safe because it either "
 "returns or doesn't read data."
 msgstr ""
 
 #: src/concurrency/async-pitfalls/cancellation.md
 msgid ""
-"[`AsyncBufReadExt::read_line`](https://docs.rs/tokio/latest/tokio/io/trait."
-"AsyncBufReadExt.html#method.read_line) is similar to the example and _isn't_ "
-"cancellation-safe. See its documentation for details and alternatives."
+"[`AsyncBufReadExt::read_line`](https://docs.rs/tokio/latest/tokio/io/"
+"trait.AsyncBufReadExt.html#method.read_line) is similar to the example and "
+"_isn't_ cancellation-safe. See its documentation for details and "
+"alternatives."
 msgstr ""
 
 #: src/concurrency/async-exercises.md
@@ -19695,9 +19761,9 @@ msgstr ""
 
 #: src/concurrency/async-exercises/chat-app.md
 msgid ""
-"[Lines::next_line()](https://docs.rs/tokio/latest/tokio/io/struct.Lines."
-"html#method.next_line): for asynchronously reading user messages from the "
-"standard input."
+"[Lines::next_line()](https://docs.rs/tokio/latest/tokio/io/"
+"struct.Lines.html#method.next_line): for asynchronously reading user "
+"messages from the standard input."
 msgstr ""
 
 #: src/concurrency/async-exercises/chat-app.md
@@ -19712,13 +19778,13 @@ msgstr ""
 
 #: src/concurrency/async-exercises/chat-app.md
 msgid ""
-"Normally in a Cargo project, you can have only one binary, and one `src/main."
-"rs` file. In this project, we need two binaries. One for the client, and one "
-"for the server. You could potentially make them two separate Cargo projects, "
-"but we are going to put them in a single Cargo project with two binaries. "
-"For this to work, the client and the server code should go under `src/bin` "
-"(see the [documentation](https://doc.rust-lang.org/cargo/reference/cargo-"
-"targets.html#binaries))."
+"Normally in a Cargo project, you can have only one binary, and one `src/"
+"main.rs` file. In this project, we need two binaries. One for the client, "
+"and one for the server. You could potentially make them two separate Cargo "
+"projects, but we are going to put them in a single Cargo project with two "
+"binaries. For this to work, the client and the server code should go under "
+"`src/bin` (see the [documentation](https://doc.rust-lang.org/cargo/reference/"
+"cargo-targets.html#binaries))."
 msgstr ""
 
 #: src/concurrency/async-exercises/chat-app.md
@@ -20450,17 +20516,18 @@ msgstr ""
 #: src/other-resources.md
 msgid ""
 "[Beginner's Series to Rust](https://docs.microsoft.com/en-us/shows/beginners-"
-"series-to-rust/) and [Take your first steps with Rust](https://docs."
-"microsoft.com/en-us/learn/paths/rust-first-steps/): two Rust guides aimed at "
-"new developers. The first is a set of 35 videos and the second is a set of "
-"11 modules which covers Rust syntax and basic constructs."
+"series-to-rust/) and [Take your first steps with Rust](https://"
+"docs.microsoft.com/en-us/learn/paths/rust-first-steps/): two Rust guides "
+"aimed at new developers. The first is a set of 35 videos and the second is a "
+"set of 11 modules which covers Rust syntax and basic constructs."
 msgstr ""
 
 #: src/other-resources.md
 msgid ""
-"[Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial."
-"github.io/too-many-lists/): in-depth exploration of Rust's memory management "
-"rules, through implementing a few different types of list structures."
+"[Learn Rust With Entirely Too Many Linked Lists](https://rust-"
+"unofficial.github.io/too-many-lists/): in-depth exploration of Rust's memory "
+"management rules, through implementing a few different types of list "
+"structures."
 msgstr ""
 
 #: src/other-resources.md
