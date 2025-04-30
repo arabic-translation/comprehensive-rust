@@ -37,7 +37,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Check for typos
-        uses: crate-ci/typos@v1.29.0
+        uses: crate-ci/typos@v1.31.1
         with:
           config: ./.github/typos.toml
 
@@ -190,7 +190,9 @@ jobs:
         working-directory: ./tests
       - name: Test Javascript
         if: matrix.language == 'en'
-        run: npm test
+        run: |
+          ./src/slides/create-slide.list.sh
+          npm test
         env:
           TEST_BOOK_DIR: ../book/comprehensive-rust-${{ matrix.language }}/html
         working-directory: ./tests

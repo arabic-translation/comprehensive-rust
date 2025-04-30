@@ -14,7 +14,7 @@
 
 // ANCHOR: solution
 // ANCHOR: setup
-pub trait Logger {
+trait Logger {
     /// Log a message at the given verbosity level.
     fn log(&self, verbosity: u8, message: &str);
 }
@@ -26,13 +26,13 @@ impl Logger for StderrLogger {
         eprintln!("verbosity={verbosity}: {message}");
     }
 }
-// ANCHOR_END: setup
 
 /// Only log messages up to the given verbosity level.
 struct VerbosityFilter {
     max_verbosity: u8,
     inner: StderrLogger,
 }
+// ANCHOR_END: setup
 
 impl Logger for VerbosityFilter {
     fn log(&self, verbosity: u8, message: &str) {

@@ -8,16 +8,16 @@ A reference provides a way to access another value without taking ownership of
 the value, and is also called "borrowing". Shared references are read-only, and
 the referenced data cannot change.
 
-<!-- mdbook-xgettext: skip -->
-
 ```rust,editable
 fn main() {
     let a = 'A';
     let b = 'B';
+
     let mut r: &char = &a;
-    println!("r: {}", *r);
+    dbg!(*r);
+
     r = &b;
-    println!("r: {}", *r);
+    dbg!(*r);
 }
 ```
 
@@ -39,8 +39,8 @@ value.
   will recognize references as pointers. Later parts of the course will cover
   how Rust prevents the memory-safety bugs that come from using raw pointers.
 
-- Rust does not automatically create references for you - the `&` is always
-  required.
+- Explicit referencing with `&` is usually required. However, Rust performs
+  automatic referencing and dereferencing when invoking methods.
 
 - Rust will auto-dereference in some cases, in particular when invoking methods
   (try `r.is_ascii()`). There is no need for an `->` operator like in C++.
@@ -53,10 +53,9 @@ value.
   that value was mutable. Try `*r = 'X'`.
 
 - Rust is tracking the lifetimes of all references to ensure they live long
-  enough. Dangling references cannot occur in safe Rust. `x_axis` would return a
-  reference to `point`, but `point` will be deallocated when the function
-  returns, so this will not compile.
+  enough. Dangling references cannot occur in safe Rust.
 
-- We will talk more about borrowing when we get to ownership.
+- We will talk more about borrowing and preventing dangling references when we
+  get to ownership.
 
 </details>

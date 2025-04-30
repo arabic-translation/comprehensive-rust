@@ -126,14 +126,16 @@ fn test_zeros() {
         0
     );
 }
-// ANCHOR_END: tests
 
-fn main() {
-    let expr = Expression::Op {
-        op: Operation::Sub,
-        left: Box::new(Expression::Value(20)),
-        right: Box::new(Expression::Value(10)),
-    };
-    println!("expr: {expr:?}");
-    println!("result: {:?}", eval(expr));
+#[test]
+fn test_div() {
+    assert_eq!(
+        eval(Expression::Op {
+            op: Operation::Div,
+            left: Box::new(Expression::Value(10)),
+            right: Box::new(Expression::Value(2)),
+        }),
+        5
+    )
 }
+// ANCHOR_END: tests
