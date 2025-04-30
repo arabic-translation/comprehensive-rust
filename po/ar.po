@@ -5746,7 +5746,7 @@ msgstr ""
 
 #: src/methods-and-traits/methods.md
 msgid "`mut self`: same as above, but the method can mutate the object."
-msgstr "`mut self`: نفس ما سبق، لكن الدالة يمكنها تغيير الكائن.\n"
+msgstr "`mut self`: نفس ما سبق، لكن الدالة يمكنها تغيير الكائن."
 
 #: src/methods-and-traits/methods.md
 msgid ""
@@ -5754,11 +5754,11 @@ msgid ""
 "create constructors which are called `new` by convention."
 msgstr ""
 "لا يوجد مستلم: تصبح هذه دالة ثابتة على البنية (struct). تُستخدم عادةً "
-"لإنشاء منشئين يُطلق عليهم `new` حسب العرف.\n"
+"لإنشاء منشئين يُطلق عليهم `new` حسب العرف."
 
 #: src/methods-and-traits/methods.md
 msgid "It can be helpful to introduce methods by comparing them to functions."
-msgstr "يمكن أن يكون من المفيد تقديم الدوال بمقارنتها بالدوال العادية.\n"
+msgstr "يمكن أن يكون من المفيد تقديم الدوال بمقارنتها بالدوال العادية."
 
 #: src/methods-and-traits/methods.md
 msgid ""
