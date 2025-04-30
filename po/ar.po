@@ -5687,11 +5687,11 @@ msgstr "// وصول مقترض مشترك للقراءة فقط إلى self\n"
 
 #: src/methods-and-traits/methods.md
 msgid "\"Recorded {} laps for {}:\""
-msgstr "\"تم تسجيل {} لفات لـ {}:\"\n"
+msgstr "\"تم تسجيل {} لفات لـ {}:\""
 
 #: src/methods-and-traits/methods.md
 msgid "\"Lap {idx}: {lap} sec\""
-msgstr "\"لفة {idx}: {lap} ثانية\"\n"
+msgstr "\"لفة {idx}: {lap} ثانية\""
 
 #: src/methods-and-traits/methods.md
 msgid "// Exclusive ownership of self\n"
@@ -5699,11 +5699,11 @@ msgstr "// ملكية حصرية لـ self\n"
 
 #: src/methods-and-traits/methods.md
 msgid "\"Race {} is finished, total lap time: {}\""
-msgstr "\"السباق {} انتهى، إجمالي وقت اللفة: {}\"\n"
+msgstr "\"السباق {} انتهى، إجمالي وقت اللفة: {}\""
 
 #: src/methods-and-traits/methods.md
 msgid "\"Monaco Grand Prix\""
-msgstr "\"جائزة موناكو الكبرى\"\n"
+msgstr "\"جائزة موناكو الكبرى\""
 
 #: src/methods-and-traits/methods.md
 msgid "// race.add_lap(42);\n"
@@ -5715,7 +5715,7 @@ msgid ""
 "on. There are several common receivers for a method:"
 msgstr ""
 "تحدد الوسيطات `self` \"المستلم\" - الكائن الذي تعمل عليه الدالة. هناك عدة "
-"مستلمين شائعين للدالة:\n"
+"مستلمين شائعين للدالة:"
 
 #: src/methods-and-traits/methods.md
 msgid ""
@@ -5723,7 +5723,7 @@ msgid ""
 "reference. The object can be used again afterwards."
 msgstr ""
 "`&self`: يقترض الكائن من المستدعي باستخدام مرجع مشترك وغير قابل للتغيير. "
-"يمكن استخدام الكائن مرة أخرى بعد ذلك.\n"
+"يمكن استخدام الكائن مرة أخرى بعد ذلك."
 
 #: src/methods-and-traits/methods.md
 msgid ""
@@ -5731,7 +5731,7 @@ msgid ""
 "reference. The object can be used again afterwards."
 msgstr ""
 "`&mut self`: يقترض الكائن من المستدعي باستخدام مرجع فريد وقابل للتغيير. "
-"يمكن استخدام الكائن مرة أخرى بعد ذلك.\n"
+"يمكن استخدام الكائن مرة أخرى بعد ذلك."
 
 #: src/methods-and-traits/methods.md
 msgid ""
@@ -5742,7 +5742,7 @@ msgid ""
 msgstr ""
 "`self`: يأخذ ملكية الكائن وينقله بعيدًا عن المستدعي. تصبح الدالة مالكة "
 "للكائن. سيتم إسقاط (إلغاء تخصيص) الكائن عند عودة الدالة، ما لم يتم نقل "
-"ملكيته بشكل صريح. الملكية الكاملة لا تعني تلقائيًا القابلية للتغيير.\n"
+"ملكيته بشكل صريح. الملكية الكاملة لا تعني تلقائيًا القابلية للتغيير."
 
 #: src/methods-and-traits/methods.md
 msgid "`mut self`: same as above, but the method can mutate the object."
