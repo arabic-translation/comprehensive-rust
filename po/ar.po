@@ -2285,7 +2285,7 @@ msgstr ""
 msgid "Dev Dependencies and Runtime Dependency management/caching"
 msgstr ""
 "تبعيات التطوير (Dev Depenedency) و إدارة/تخزين مُؤَقَّتٌ للتبعيات وقت "
-"التشغيلالتشغيل (Runtime Dependency management/caching)"
+"التشغيل (Runtime Dependency management/caching)"
 
 #: src/cargo/rust-ecosystem.md
 msgid ""
