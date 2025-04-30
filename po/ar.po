@@ -1314,9 +1314,9 @@ msgstr ""
 "google/comprehensive-rust/actions/workflows/build.yml?query=branch%3Amain) [!"
 "[مساهمون GitHub](https://img.shields.io/github/contributors/google/"
 "comprehensive-rust?style=flat-square)](https://github.com/google/"
-"comprehensive-rust/graphs/contributors) [![نجوم GitHub](https://img.shields."
-"io/github/stars/google/comprehensive-rust?style=flat-square)](https://github."
-"com/google/comprehensive-rust/stargazers)"
+"comprehensive-rust/graphs/contributors) [![نجوم GitHub](https://"
+"img.shields.io/github/stars/google/comprehensive-rust?style=flat-square)]"
+"(https://github.com/google/comprehensive-rust/stargazers)"
 
 #: src/index.md
 msgid ""
@@ -1953,10 +1953,10 @@ msgid ""
 "johnathan79717)."
 msgstr ""
 "[الصينية (التقليدية)](https://google.github.io/comprehensive-rust/zh-TW/) "
-"بواسطة [@hueich](https://github.com/hueich), [@victorhsieh](https://github."
-"com/victorhsieh), [@mingyc](https://github.com/mingyc), [@kuanhungchen]"
-"(https://github.com/kuanhungchen), و [@johnathan79717](https://github.com/"
-"johnathan79717)."
+"بواسطة [@hueich](https://github.com/hueich), [@victorhsieh](https://"
+"github.com/victorhsieh), [@mingyc](https://github.com/mingyc), "
+"[@kuanhungchen](https://github.com/kuanhungchen), و [@johnathan79717]"
+"(https://github.com/johnathan79717)."
 
 #: src/running-the-course/translations.md
 msgid ""
@@ -1979,8 +1979,8 @@ msgid ""
 msgstr ""
 "[الكورية](https://google.github.io/comprehensive-rust/ko/) بواسطة [@keispace]"
 "(https://github.com/keispace), [@jiyongp](https://github.com/jiyongp), "
-"[@jooyunghan](https://github.com/jooyunghan), و [@namhyung](https://github."
-"com/namhyung)."
+"[@jooyunghan](https://github.com/jooyunghan), و [@namhyung](https://"
+"github.com/namhyung)."
 
 #: src/running-the-course/translations.md
 msgid ""
@@ -2120,8 +2120,8 @@ msgstr ""
 "والانتقال إلى التعريف لـ [VS Code](https://code.visualstudio.com/)، [Emacs]"
 "(https://rust-analyzer.github.io/manual.html#emacs)، [Vim/Neovim](https://"
 "rust-analyzer.github.io/manual.html#vimneovim)، والعديد من المحررات الأخرى. "
-"هناك أيضًا بيئة تطوير متكاملة مختلفة متاحة تسمى [RustRover](https://www."
-"jetbrains.com/rust/)."
+"هناك أيضًا بيئة تطوير متكاملة مختلفة متاحة تسمى [RustRover](https://"
+"www.jetbrains.com/rust/)."
 
 #: src/cargo.md
 msgid ""
@@ -2182,8 +2182,8 @@ msgid ""
 msgstr ""
 "`rustup`: مثبت ومحدث أدوات Rust. تُستخدم هذه الأداة لتثبيت وتحديث `rustc` و "
 "`cargo` عند إصدار نسخ جديدة من Rust. بالإضافة إلى ذلك، يمكن لـ `rustup` أيضًا "
-"تنزيل التوثيق للمكتبة القياسية(standard library). يمكنك تثبيت عدة إصدارات من Rust في وقت واحد "
-"و `rustup` سيسمح لك بالتبديل بينها حسب الحاجة."
+"تنزيل التوثيق للمكتبة القياسية(standard library). يمكنك تثبيت عدة إصدارات من "
+"Rust في وقت واحد و `rustup` سيسمح لك بالتبديل بينها حسب الحاجة."
 
 #: src/cargo/rust-ecosystem.md src/types-and-values/hello-world.md
 #: src/references/exclusive.md src/memory-management/move.md
@@ -2199,15 +2199,13 @@ msgid ""
 "plus they enable new functionality."
 msgstr ""
 "لدى Rust جدول إصدارات سريع مع إصدار جديد كل ستة أسابيع. تحافظ الإصدارات "
-"الجديدة على التوافق العكسي مع الإصدارات القديمة --- بالإضافة إلى إِتاحة "
-"وظائف جديدة."
+"الجديدة على التوافق العكسي مع الإصدارات القديمة --- بالإضافة إلى إِتاحة وظائف "
+"جديدة."
 
 #: src/cargo/rust-ecosystem.md
 msgid ""
 "There are three release channels: \"stable\", \"beta\", and \"nightly\"."
-msgstr ""
-"هناك·ثلاث·قنوات·إصدار:·\"stable\"·(مستقر)،·\"beta\"·(بيتا)،"
-"·و\"nightly\"·(ليلي)."
+msgstr "هناك·ثلاث·قنوات·إصدار:·\"stable\"·(مستقر)،·\"beta\"·(بيتا)،·و\"nightly\"·(ليلي)."
 
 #: src/cargo/rust-ecosystem.md
 msgid ""
@@ -2286,7 +2284,7 @@ msgstr ""
 #: src/cargo/rust-ecosystem.md
 msgid "Dev Dependencies and Runtime Dependency management/caching"
 msgstr ""
-"تبعيات التطوير (Dev Depenedency) و إدارة/تخزين مُؤَقَّتٌ للتبعيات وقت التشغيل"
+"تبعيات التطوير (Dev Depenedency) و إدارة/تخزين مُؤَقَّتٌ للتبعيات وقت "
 "التشغيل (Runtime Dependency management/caching)"
 
 #: src/cargo/rust-ecosystem.md
@@ -2922,9 +2920,9 @@ msgid ""
 "assembly."
 msgstr ""
 "عندما يتوجه الطلاب إلى الاستراحة، شجعهم على فتح الملعب (playground) والتجربة "
-"قليلاً. شجعهم على إبقاء علامة تبويب المتصفح مفتوحة وتجربة الأشياء خلال بقية الدورة. هذا "
-"مفيد بشكل خاص للطلاب المتقدمين الذين يريدون معرفة المزيد عن تحسينات Rust أو "
-"كود التجميع (assembly) الناتج."
+"قليلاً. شجعهم على إبقاء علامة تبويب المتصفح مفتوحة وتجربة الأشياء خلال بقية "
+"الدورة. هذا مفيد بشكل خاص للطلاب المتقدمين الذين يريدون معرفة المزيد عن "
+"تحسينات Rust أو كود التجميع (assembly) الناتج."
 
 #: src/types-and-values.md
 msgid "[Hello, World](./types-and-values/hello-world.md) (5 minutes)"
@@ -3226,11 +3224,11 @@ msgid ""
 "with method syntax, e.g., `(a * b).saturating_add(b * c).saturating_add(c * "
 "a)`."
 msgstr ""
-"قم بتغيير `i32` إلى `i16` لرؤية تجاوز السعة للأعداد الصحيحة، والذي يسبب (panic) "
-"(panic) في بناء التصحيح (debug build) ويلتف في بناء الإصدار (release build). "
-"هناك خيارات أخرى، مثل التجاوز (overflowing)، التشبع (saturating)، والحمل "
-"(carrying). يتم الوصول إليها باستخدام صيغة الدالة (method syntax)، مثل `(a * "
-"b).saturating_add(b * c).saturating_add(c * a)`."
+"قم بتغيير `i32` إلى `i16` لرؤية تجاوز السعة للأعداد الصحيحة، والذي يسبب "
+"(panic) في بناء التصحيح (debug build) ويلتف في بناء الإصدار (release "
+"build). هناك خيارات أخرى، مثل التجاوز (overflowing)، التشبع (saturating)، "
+"والحمل (carrying). يتم الوصول إليها باستخدام صيغة الدالة (method syntax)، "
+"مثل `(a * b).saturating_add(b * c).saturating_add(c * a)`."
 
 #: src/types-and-values/arithmetic.md
 msgid ""
@@ -3330,8 +3328,8 @@ msgstr "[break و continue](./control-flow-basics/break-continue.md) (4 دقائ
 msgid ""
 "[Blocks and Scopes](./control-flow-basics/blocks-and-scopes.md) (5 minutes)"
 msgstr ""
-"[الكتل (Blocks) والنطاقات (Scopes)](./control-flow-basics/blocks-and-scopes."
-"md) (5 دقائق)"
+"[الكتل (Blocks) والنطاقات (Scopes)](./control-flow-basics/blocks-and-"
+"scopes.md) (5 دقائق)"
 
 #: src/control-flow-basics.md
 msgid "[Functions](./control-flow-basics/functions.md) (3 minutes)"
@@ -3345,8 +3343,8 @@ msgstr "[الماكروز (Macros)](./control-flow-basics/macros.md) (2 دقائ
 msgid ""
 "[Exercise: Collatz Sequence](./control-flow-basics/exercise.md) (15 minutes)"
 msgstr ""
-"[تمرين: متتالية كولاتز (Collatz Sequence)](./control-flow-basics/exercise."
-"md) (15 دقائق)"
+"[تمرين: متتالية كولاتز (Collatz Sequence)](./control-flow-basics/"
+"exercise.md) (15 دقائق)"
 
 #: src/control-flow-basics/if.md
 msgid "`if` expressions"
@@ -3357,8 +3355,8 @@ msgid ""
 "You use [`if` expressions](https://doc.rust-lang.org/reference/expressions/"
 "if-expr.html#if-expressions) exactly like `if` statements in other languages:"
 msgstr ""
-"تستخدم [تعابير `if`](https://doc.rust-lang.org/reference/expressions/if-expr."
-"html#if-expressions) تمامًا مثل جمل `if` في اللغات الأخرى:"
+"تستخدم [تعابير `if`](https://doc.rust-lang.org/reference/expressions/if-"
+"expr.html#if-expressions) تمامًا مثل جمل `if` في اللغات الأخرى:"
 
 #: src/control-flow-basics/if.md
 msgid "\"zero!\""
@@ -3490,8 +3488,8 @@ msgid ""
 "`loop`, this can take an optional expression that becomes the value of the "
 "`loop` expression."
 msgstr ""
-"إذا كنت تريد الخروج من أي نوع من الحلقات مبكرًا، استخدم [`break`](https://doc."
-"rust-lang.org/reference/expressions/loop-expr.html#break-expressions). "
+"إذا كنت تريد الخروج من أي نوع من الحلقات مبكرًا، استخدم [`break`](https://"
+"doc.rust-lang.org/reference/expressions/loop-expr.html#break-expressions). "
 "بالنسبة لـ `loop`، يمكن أن تأخذ هذه تعبيرًا اختياريًا يصبح قيمة تعبير `loop`."
 
 #: src/control-flow-basics/break-continue.md src/std-traits/exercise.md
@@ -3521,9 +3519,9 @@ msgid ""
 "value. This is because it's guaranteed to be entered at least once (unlike "
 "`while` and `for` loops)."
 msgstr ""
-"لاحظ أن `loop` هو البناء التكراري الوحيد الذي يعيد قيمة معقده (non-"
-"trivial value). هذا لأنه مضمون الدخول إليه مرة واحدة على الأقل (على عكس "
-"حلقات `while` و `for` (while و for))."
+"لاحظ أن `loop` هو البناء التكراري الوحيد الذي يعيد قيمة معقده (non-trivial "
+"value). هذا لأنه مضمون الدخول إليه مرة واحدة على الأقل (على عكس حلقات "
+"`while` و `for` (while و for))."
 
 #: src/control-flow-basics/blocks-and-scopes.md
 msgid "Blocks"
@@ -3616,8 +3614,8 @@ msgid ""
 "Shadowing looks obscure at first, but is convenient for holding on to values "
 "after `.unwrap()`."
 msgstr ""
-"التظليل (Shadowing) يبدو غامضًا في البداية، لكنه مريح للاحتفاظ بالقيم بعد `."
-"unwrap()`."
+"التظليل (Shadowing) يبدو غامضًا في البداية، لكنه مريح للاحتفاظ بالقيم بعد "
+"`.unwrap()`."
 
 #: src/control-flow-basics/functions.md
 msgid ""
@@ -3637,7 +3635,8 @@ msgstr ""
 "آخر تعبير في جسم الدالة (function body) (أو أي كتلة) يصبح قيمة الإرجاع "
 "(return value). ببساطة احذف `;` في نهاية التعبير. يمكن استخدام الكلمة "
 "المفتاحية `return` للإرجاع المبكر (early return)، ولكن الشكل \"bare value\" "
-"هو الشكل الاصطلاحي في نهاية الدالة (refactor `gcd` to use a `return`) قم بتغيير 'gcd' و استخدم 'return'."
+"هو الشكل الاصطلاحي في نهاية الدالة (refactor `gcd` to use a `return`) قم "
+"بتغيير 'gcd' و استخدم 'return'."
 
 #: src/control-flow-basics/functions.md
 msgid ""
@@ -4198,8 +4197,8 @@ msgid ""
 "yielding its value."
 msgstr ""
 "المرجع المشترك (shared reference) لنوع `T` يكون من النوع `&T`. يتم إنشاء "
-"قيمة المرجع باستخدام المعامل `&`."
-"·المعامل·`*`·يقوم·بـ·\"إلغاء·المرجع\"·(dereferences)·للمرجع،·مما·يعطي·قيمته."
+"قيمة المرجع باستخدام المعامل "
+"`&`.·المعامل·`*`·يقوم·بـ·\"إلغاء·المرجع\"·(dereferences)·للمرجع،·مما·يعطي·قيمته."
 
 #: src/references/shared.md
 msgid "Rust will statically forbid dangling references:"
@@ -4349,8 +4348,8 @@ msgid ""
 "identical."
 msgstr ""
 "إذا بدأت الشريحة (slice) عند الفهرس 0، فإن صيغة النطاق (range syntax) في "
-"Rust تسمح لنا بإسقاط فهرس البداية، مما يعني أن `&a[0..a.len()]` و `&a[..a."
-"len()]` متطابقتان."
+"Rust تسمح لنا بإسقاط فهرس البداية، مما يعني أن `&a[0..a.len()]` و "
+"`&a[..a.len()]` متطابقتان."
 
 #: src/references/slices.md
 msgid ""
@@ -4491,9 +4490,9 @@ msgid ""
 "UTF-8 encoded bytes and will never use a small-string optimization)."
 msgstr ""
 "لمبرمجي C++: فكر في `&str` كـ `std::string_view` من C++، ولكنه دائمًا يشير "
-"إلى سلسلة نصية صالحة في الذاكرة. `String` في Rust هو مكافئ تقريبي لـ `std::"
-"string` من C++ (الفرق الرئيسي: يمكن أن يحتوي فقط على بايتات مشفرة بـ UTF-8 "
-"ولن يستخدم أبدًا تحسين السلسلة الصغيرة (small-string optimization))."
+"إلى سلسلة نصية صالحة في الذاكرة. `String` في Rust هو مكافئ تقريبي لـ "
+"`std::string` من C++ (الفرق الرئيسي: يمكن أن يحتوي فقط على بايتات مشفرة بـ "
+"UTF-8 ولن يستخدم أبدًا تحسين السلسلة الصغيرة (small-string optimization))."
 
 #: src/references/strings.md
 msgid "Byte strings literals allow you to create a `&[u8]` value directly:"
@@ -4749,8 +4748,8 @@ msgid ""
 "The example is a subtle reference to the [Mars Climate Orbiter](https://en."
 "wikipedia.org/wiki/Mars_Climate_Orbiter) failure."
 msgstr ""
-"المثال هو إشارة دقيقة إلى فشل [Mars Climate Orbiter](https://en.wikipedia."
-"org/wiki/Mars_Climate_Orbiter)."
+"المثال هو إشارة دقيقة إلى فشل [Mars Climate Orbiter](https://"
+"en.wikipedia.org/wiki/Mars_Climate_Orbiter)."
 
 #: src/user-defined-types/enums.md
 msgid ""
@@ -4949,14 +4948,14 @@ msgid ""
 msgstr ""
 "نظرًا لأن المتغيرات الثابتة (`static` variables) يمكن الوصول إليها من أي خيط "
 "(thread)، يجب أن تكون `Sync`. القابلية للتغيير الداخلي (Interior mutability) "
-"ممكنة من خلال [`Mutex`](https://doc.rust-lang.org/std/sync/struct.Mutex."
-"html)، (atomic) أو ما شابه."
+"ممكنة من خلال [`Mutex`](https://doc.rust-lang.org/std/sync/"
+"struct.Mutex.html)، (atomic) أو ما شابه."
 
 #: src/user-defined-types/static.md
 msgid "Thread-local data can be created with the macro `std::thread_local`."
 msgstr ""
-"يمكن إنشاء البيانات المحلية للخيط (Thread-local data) باستخدام الماكرو `std::"
-"thread_local`."
+"يمكن إنشاء البيانات المحلية للخيط (Thread-local data) باستخدام الماكرو "
+"`std::thread_local`."
 
 #: src/user-defined-types/const.md
 msgid "`const`"
@@ -5040,89 +5039,89 @@ msgstr ""
 
 #: src/user-defined-types/exercise.md
 msgid "// TODO: add required variants\n"
-msgstr ""
+msgstr "// TODO: أضف الأشكال المطلوبة\n"
 
 #: src/user-defined-types/exercise.md src/user-defined-types/solution.md
 msgid "/// A direction of travel.\n"
-msgstr ""
+msgstr "/// اتجاه السفر.\n"
 
 #: src/user-defined-types/exercise.md src/user-defined-types/solution.md
 msgid "/// The car has arrived on the given floor.\n"
-msgstr ""
+msgstr "/// وصلت السيارة إلى الطابق المحدد.\n"
 
 #: src/user-defined-types/exercise.md src/user-defined-types/solution.md
 msgid "/// The car doors have opened.\n"
-msgstr ""
+msgstr "/// فتحت أبواب السيارة.\n"
 
 #: src/user-defined-types/exercise.md src/user-defined-types/solution.md
 msgid "/// The car doors have closed.\n"
-msgstr ""
+msgstr "/// أغلقت أبواب السيارة.\n"
 
 #: src/user-defined-types/exercise.md src/user-defined-types/solution.md
 msgid ""
 "/// A directional button was pressed in an elevator lobby on the given "
 "floor.\n"
-msgstr ""
+msgstr "/// تم الضغط على زر الاتجاه في بهو المصعد في الطابق المحدد.\n"
 
 #: src/user-defined-types/exercise.md src/user-defined-types/solution.md
 msgid "/// A floor button was pressed in the elevator car.\n"
-msgstr ""
+msgstr "/// تم الضغط على زر الطابق في عربة المصعد.\n"
 
 #: src/user-defined-types/exercise.md src/user-defined-types/solution.md
 msgid "\"A ground floor passenger has pressed the up button: {:?}\""
-msgstr ""
+msgstr "\"راكب في الطابق الأرضي قد ضغط على زر الصعود: {:?}\""
 
 #: src/user-defined-types/exercise.md src/user-defined-types/solution.md
 msgid "\"The car has arrived on the ground floor: {:?}\""
-msgstr ""
+msgstr "\"وصلت السيارة إلى الطابق الأرضي: {:?}\""
 
 #: src/user-defined-types/exercise.md src/user-defined-types/solution.md
 msgid "\"The car door opened: {:?}\""
-msgstr ""
+msgstr "\"تم فتح باب السيارة: {:?}\""
 
 #: src/user-defined-types/exercise.md src/user-defined-types/solution.md
 msgid "\"A passenger has pressed the 3rd floor button: {:?}\""
-msgstr ""
+msgstr "\"هناك راكب قد ضغط على زر الطابق الثالث: {:?}\""
 
 #: src/user-defined-types/exercise.md src/user-defined-types/solution.md
 msgid "\"The car door closed: {:?}\""
-msgstr ""
+msgstr "\"أُغلق باب السيارة: {:?}\""
 
 #: src/user-defined-types/exercise.md src/user-defined-types/solution.md
 msgid "\"The car has arrived on the 3rd floor: {:?}\""
-msgstr ""
+msgstr "\"وصلت السيارة إلى الطابق الثالث: {:?}\""
 
 #: src/user-defined-types/solution.md
 msgid "/// A button was pressed.\n"
-msgstr ""
+msgstr "/// تم الضغط على زر ما.\n"
 
 #: src/user-defined-types/solution.md
 msgid "/// The car has arrived at the given floor.\n"
-msgstr ""
+msgstr "/// وصلت السيارة إلى الطابق المحدد.\n"
 
 #: src/user-defined-types/solution.md
 msgid "/// The car's doors have opened.\n"
-msgstr ""
+msgstr "/// فُتحت أبواب السيارة.\n"
 
 #: src/user-defined-types/solution.md
 msgid "/// The car's doors have closed.\n"
-msgstr ""
+msgstr "/// أُغلقت أبواب السيارة.\n"
 
 #: src/user-defined-types/solution.md
 msgid "/// A floor is represented as an integer.\n"
-msgstr ""
+msgstr "/// يتم تمثيل الطابق كعدد صحيح (Integer).\n"
 
 #: src/user-defined-types/solution.md
 msgid "/// A user-accessible button.\n"
-msgstr ""
+msgstr "/// زر يمكن الوصول إليه من قبل المستخدم.\n"
 
 #: src/user-defined-types/solution.md
 msgid "/// A button in the elevator lobby on the given floor.\n"
-msgstr ""
+msgstr "/// زر في بهو المصعد في الطابق المحدد.\n"
 
 #: src/user-defined-types/solution.md
 msgid "/// A floor button within the car.\n"
-msgstr ""
+msgstr "/// زر للطابق داخل العربة.\n"
 
 #: src/welcome-day-2.md
 #, fuzzy
@@ -5134,141 +5133,157 @@ msgid ""
 "Now that we have seen a fair amount of Rust, today will focus on Rust's type "
 "system:"
 msgstr ""
+"الآن بعد أن رأينا قدرًا لا بأس به من Rust، سنركز اليوم على نظام الأنواع في "
+"Rust's type:"
 
 #: src/welcome-day-2.md
 msgid "Pattern matching: extracting data from structures."
-msgstr ""
+msgstr "مطابقة الأنماط: استخراج البيانات من الهياكل."
 
 #: src/welcome-day-2.md
 msgid "Methods: associating functions with types."
-msgstr ""
+msgstr "الأساليب: ربط الدوال بالأنواع."
 
 #: src/welcome-day-2.md
 msgid "Traits: behaviors shared by multiple types."
-msgstr ""
+msgstr "السمات (Traits): السلوكيات المشتركة بين أنواع متعددة."
 
 #: src/welcome-day-2.md
 msgid "Generics: parameterizing types on other types."
-msgstr ""
+msgstr "الأنواع العامة (Generics): تحديد الأنواع بناءً على أنواع أخرى."
 
 #: src/welcome-day-2.md
 msgid ""
 "Standard library types and traits: a tour of Rust's rich standard library."
 msgstr ""
+"أنواع السمات (traits) في المكتبة القياسية: جولة في المكتبة القياسية الغنية "
+"لـ Rust."
 
 #: src/welcome-day-2.md
 msgid "[Welcome](./welcome-day-2.md) (3 minutes)"
-msgstr ""
+msgstr "[مرحبًا](./welcome-day-2.md) (3 دقائق)"
 
 #: src/welcome-day-2.md
 msgid "[Pattern Matching](./pattern-matching.md) (1 hour)"
-msgstr ""
+msgstr "[مطابقة الأنماط](./pattern-matching.md) (1 ساعة)"
 
 #: src/welcome-day-2.md
 msgid "[Methods and Traits](./methods-and-traits.md) (50 minutes)"
-msgstr ""
+msgstr "[الأساليب والسمات](./methods-and-traits.md) (50 دقيقة)"
 
 #: src/welcome-day-2.md
 msgid ""
 "Including 10 minute breaks, this session should take about 2 hours and 10 "
 "minutes"
 msgstr ""
+"بما في ذلك فترات استراحة لمدة 10 دقائق، يجب أن تستغرق هذه الجلسة حوالي "
+"ساعتين و10 دقائق"
 
 #: src/pattern-matching.md
 msgid "[Matching Values](./pattern-matching/match.md) (10 minutes)"
-msgstr ""
+msgstr "[مطابقة القيم](./pattern-matching/match.md) (10 دقائق)"
 
 #: src/pattern-matching.md
 msgid ""
 "[Destructuring Structs](./pattern-matching/destructuring-structs.md) (4 "
 "minutes)"
 msgstr ""
+"[تفكيك الهياكل (Structs)](./pattern-matching/destructuring-structs.md) (4 "
+"دقائق)"
 
 #: src/pattern-matching.md
 msgid ""
 "[Destructuring Enums](./pattern-matching/destructuring-enums.md) (4 minutes)"
 msgstr ""
+"[تفكيك التعدادات (Enums)](./pattern-matching/destructuring-enums.md) (4 "
+"دقائق)"
 
 #: src/pattern-matching.md
 msgid "[Let Control Flow](./pattern-matching/let-control-flow.md) (10 minutes)"
 msgstr ""
+"[السماح بتدفق التحكم (Let Control Flow)](./pattern-matching/let-control-"
+"flow.md) (10 دقائق)"
 
 #: src/pattern-matching.md
 msgid ""
 "[Exercise: Expression Evaluation](./pattern-matching/exercise.md) (30 "
 "minutes)"
 msgstr ""
+"[تمرين: تقييم التعبيرات (Expression Evaluation)](./pattern-matching/"
+"exercise.md) (30 دقيقة)"
 
 #: src/pattern-matching.md src/std-types.md src/memory-management.md
 #: src/error-handling.md
 msgid "This segment should take about 1 hour"
-msgstr ""
+msgstr "يجب أن يستغرق هذا الجزء حوالي ساعة"
 
 #: src/pattern-matching/match.md
 msgid ""
 "The `match` keyword lets you match a value against one or more _patterns_. "
 "The comparisons are done from top to bottom and the first match wins."
 msgstr ""
+"تسمح لك الكلمة المفتاحية `match` بمطابقة قيمة مع نمط أو أكثر. تتم المقارنات "
+"من الأعلى إلى الأسفل ويفوز أول تطابق."
 
 #: src/pattern-matching/match.md
 msgid "The patterns can be simple values, similarly to `switch` in C and C++:"
-msgstr ""
+msgstr "يمكن أن تكون الأنماط قيمًا بسيطة، بشكل مشابه لـ `switch` في C وC++:"
 
 #: src/pattern-matching/match.md
 msgid "'x'"
-msgstr ""
+msgstr "'x'"
 
 #: src/pattern-matching/match.md
 msgid "'q'"
-msgstr ""
+msgstr "'q'"
 
 #: src/pattern-matching/match.md
 msgid "\"Quitting\""
-msgstr ""
+msgstr "\"الخروج\""
 
 #: src/pattern-matching/match.md src/generics/exercise.md
 #: src/generics/solution.md src/std-traits/solution.md
 #: src/error-handling/exercise.md src/error-handling/solution.md
 msgid "'a'"
-msgstr ""
+msgstr "'a'"
 
 #: src/pattern-matching/match.md
 msgid "'s'"
-msgstr ""
+msgstr "'s'"
 
 #: src/pattern-matching/match.md
 msgid "'w'"
-msgstr ""
+msgstr "'w'"
 
 #: src/pattern-matching/match.md
 msgid "'d'"
-msgstr ""
+msgstr "'d'"
 
 #: src/pattern-matching/match.md
 msgid "\"Moving around\""
-msgstr ""
+msgstr "\"التحرك\""
 
 #: src/pattern-matching/match.md src/error-handling/exercise.md
 #: src/error-handling/solution.md
 msgid "'0'"
-msgstr ""
+msgstr "'0'"
 
 #: src/pattern-matching/match.md src/error-handling/exercise.md
 #: src/error-handling/solution.md
 msgid "'9'"
-msgstr ""
+msgstr "'9'"
 
 #: src/pattern-matching/match.md
 msgid "\"Number input\""
-msgstr ""
+msgstr "\"إدخال رقم\""
 
 #: src/pattern-matching/match.md
 msgid "\"Lowercase: {key}\""
-msgstr ""
+msgstr "\"أحرف صغيرة: {key}\""
 
 #: src/pattern-matching/match.md
 msgid "\"Something else\""
-msgstr ""
+msgstr "\"شيء آخر\""
 
 #: src/pattern-matching/match.md
 msgid ""
@@ -5276,6 +5291,8 @@ msgid ""
 "expressions _must_ be exhaustive, meaning that it covers every possibility, "
 "so `_` is often used as the final catch-all case."
 msgstr ""
+"النمط `_` هو نمط عام يطابق أي قيمة. يجب أن تكون التعبيرات شاملة، مما يعني "
+"أنها تغطي كل الاحتمالات، لذلك غالبًا ما يُستخدم `_` كحالة نهائية شاملة."
 
 #: src/pattern-matching/match.md
 msgid ""
@@ -5283,38 +5300,42 @@ msgid ""
 "the same type. The type is the last expression of the block, if any. In the "
 "example above, the type is `()`."
 msgstr ""
+"يمكن استخدام (Match) كتعبير. تمامًا مثل `if`، يجب أن يكون لكل ذراع مطابقة نفس "
+"النوع. النوع هو آخر تعبير في الكتلة، إن وجد. في المثال أعلاه، النوع هو `()`."
 
 #: src/pattern-matching/match.md
 msgid ""
 "A variable in the pattern (`key` in this example) will create a binding that "
 "can be used within the match arm."
 msgstr ""
+"المتغير في النمط (`key` في هذا المثال) سيُنشئ ارتباطًا يمكن استخدامه داخل ذراع "
+"المطابقة."
 
 #: src/pattern-matching/match.md
 msgid "A match guard causes the arm to match only if the condition is true."
-msgstr ""
+msgstr "حارس المطابقة يتسبب في مطابقة الذراع فقط إذا كانت الحالة صحيحة."
 
 #: src/pattern-matching/match.md
 msgid ""
 "You might point out how some specific characters are being used when in a "
 "pattern"
-msgstr ""
+msgstr "قد تشير إلى كيفية استخدام بعض الأحرف المحددة عند وجودها في نمط"
 
 #: src/pattern-matching/match.md
 msgid "`|` as an `or`"
-msgstr ""
+msgstr "`|` كـ `or`"
 
 #: src/pattern-matching/match.md
 msgid "`..` can expand as much as it needs to be"
-msgstr ""
+msgstr "`..` يمكن أن يتوسع بقدر ما يحتاج"
 
 #: src/pattern-matching/match.md
 msgid "`1..=5` represents an inclusive range"
-msgstr ""
+msgstr "`1..=5` يمثل نطاقًا شاملاً"
 
 #: src/pattern-matching/match.md
 msgid "`_` is a wild card"
-msgstr ""
+msgstr "`_` هو بطاقة عامة"
 
 #: src/pattern-matching/match.md
 msgid ""
@@ -5322,6 +5343,8 @@ msgid ""
 "we wish to concisely express more complex ideas than patterns alone would "
 "allow."
 msgstr ""
+"حراس المطابقة كميزة تركيبية منفصلة مهمة وضرورية عندما نرغب في التعبير بشكل "
+"موجز عن أفكار أكثر تعقيدًا مما تسمح به الأنماط وحدها."
 
 #: src/pattern-matching/match.md
 msgid ""
@@ -5330,40 +5353,44 @@ msgid ""
 "match arm is selected. Failing the `if` condition inside of that block won't "
 "result in other arms of the original `match` expression being considered."
 msgstr ""
+"إنها ليست مثل تعبير `if` منفصل داخل ذراع المطابقة. يحدث تعبير `if` داخل كتلة "
+"الفرع (بعد `=>`) بعد اختيار ذراع المطابقة. فشل شرط `if` داخل تلك الكتلة لن "
+"يؤدي إلى اعتبار أذرع أخرى من تعبير `match` الأصلي."
 
 #: src/pattern-matching/match.md
 msgid ""
 "The condition defined in the guard applies to every expression in a pattern "
 "with an `|`."
-msgstr ""
+msgstr "الشرط المحدد في الحارس ينطبق على كل تعبير في نمط مع `|`."
 
 #: src/pattern-matching/destructuring-structs.md
 msgid "Structs"
-msgstr ""
+msgstr "الهياكل (Structs)"
 
 #: src/pattern-matching/destructuring-structs.md
 msgid "Like tuples, Struct can also be destructured by matching:"
 msgstr ""
+"مثل المجموعات (tuples)، يمكن أيضًا تفكيك الهيكل (Struct) عن طريق المطابقة:"
 
 #: src/pattern-matching/destructuring-structs.md
 msgid "\"x.0 = 1, b = {b}, y = {y}\""
-msgstr ""
+msgstr "\"x.0 = 1، b = {b}، y = {y}\""
 
 #: src/pattern-matching/destructuring-structs.md
 msgid "\"y = 2, x = {i:?}\""
-msgstr ""
+msgstr "\"y = 2، x = {i:?}\""
 
 #: src/pattern-matching/destructuring-structs.md
 msgid "\"y = {y}, other fields were ignored\""
-msgstr ""
+msgstr "\"y = {y}، تم تجاهل الحقول الأخرى\""
 
 #: src/pattern-matching/destructuring-structs.md
 msgid "Change the literal values in `foo` to match with the other patterns."
-msgstr ""
+msgstr "قم بتغيير القيم الحرفية في `foo` لتتوافق مع الأنماط الأخرى."
 
 #: src/pattern-matching/destructuring-structs.md
 msgid "Add a new field to `Foo` and make changes to the pattern as needed."
-msgstr ""
+msgstr "أضف حقلًا جديدًا إلى `Foo` وقم بإجراء التغييرات اللازمة على النمط."
 
 #: src/pattern-matching/destructuring-structs.md
 msgid ""
@@ -5371,10 +5398,14 @@ msgid ""
 "spot. Try changing the `2` in the second arm to a variable, and see that it "
 "subtly doesn't work. Change it to a `const` and see it working again."
 msgstr ""
+"قد يكون من الصعب تمييز الفرق بين الالتقاط والتعبير الثابت. حاول تغيير `2` في "
+"الذراع الثانية إلى متغير، وسترى أنه لا يعمل بشكل دقيق. قم بتغييره إلى "
+"`const` وسترى أنه يعمل مرة أخرى."
 
 #: src/pattern-matching/destructuring-enums.md
 msgid "Like tuples, enums can also be destructured by matching:"
 msgstr ""
+"مثل المجموعات (tuples)، يمكن أيضًا تفكيك التعدادات (enums) عن طريق المطابقة:"
 
 #: src/pattern-matching/destructuring-enums.md
 msgid ""
@@ -5382,18 +5413,20 @@ msgid ""
 "how you inspect the structure of your types. Let us start with a simple "
 "`enum` type:"
 msgstr ""
+"يمكن أيضًا استخدام الأنماط لربط المتغيرات بأجزاء من القيم الخاصة بك. هذه هي "
+"الطريقة التي تفحص بها بنية الأنواع الخاصة بك. دعونا نبدأ بنوع `enum` بسيط:"
 
 #: src/pattern-matching/destructuring-enums.md
 msgid "\"cannot divide {n} into two equal parts\""
-msgstr ""
+msgstr "\"لا يمكن تقسيم {n} إلى جزئين متساويين\""
 
 #: src/pattern-matching/destructuring-enums.md
 msgid "\"{n} divided in two is {half}\""
-msgstr ""
+msgstr "\"{n} مقسوم على اثنين هو {half}\""
 
 #: src/pattern-matching/destructuring-enums.md
 msgid "\"sorry, an error happened: {msg}\""
-msgstr ""
+msgstr "\"عذرًا، حدث خطأ: {msg}\""
 
 #: src/pattern-matching/destructuring-enums.md
 msgid ""
@@ -5401,12 +5434,16 @@ msgid ""
 "arm, `half` is bound to the value inside the `Ok` variant. In the second "
 "arm, `msg` is bound to the error message."
 msgstr ""
+"هنا استخدمنا الأذرع لتفكيك (_destructure_) قيمة `Result`. في الذراع الأولى، "
+"يتم ربط `half` بالقيمة داخل المتغير `Ok`. في الذراع الثانية، يتم ربط `msg` "
+"برسالة الخطأ."
 
 #: src/pattern-matching/destructuring-enums.md
 msgid ""
 "The `if`/`else` expression is returning an enum that is later unpacked with "
 "a `match`."
 msgstr ""
+"تعبير `if`/`else` يعيد تعدادًا (enum) يتم تفكيكه لاحقًا باستخدام `match`."
 
 #: src/pattern-matching/destructuring-enums.md
 msgid ""
@@ -5414,18 +5451,25 @@ msgid ""
 "errors when running the code. Point out the places where your code is now "
 "inexhaustive and how the compiler tries to give you hints."
 msgstr ""
+"يمكنك محاولة إضافة نوع ثالث إلى تعريف التعداد (enum) وعرض الأخطاء عند تشغيل "
+"الكود. أشر إلى الأماكن التي يكون فيها الكود غير شامل وكيف يحاول المترجم "
+"(compiler) إعطائك تلميحات."
 
 #: src/pattern-matching/destructuring-enums.md
 msgid ""
 "The values in the enum variants can only be accessed after being pattern "
 "matched."
 msgstr ""
+"يمكن الوصول إلى القيم في أنواع التعداد (enum variants) فقط بعد مطابقتها "
+"بالنمط (pattern matched)."
 
 #: src/pattern-matching/destructuring-enums.md
 msgid ""
 "Demonstrate what happens when the search is inexhaustive. Note the advantage "
 "the Rust compiler provides by confirming when all cases are handled."
 msgstr ""
+"أظهر ما يحدث عندما يكون البحث غير شامل. لاحظ الفائدة التي يوفرها مترجم Rust "
+"بتأكيده عندما يتم التعامل مع جميع الحالات."
 
 #: src/pattern-matching/destructuring-enums.md
 msgid ""
@@ -5436,24 +5480,32 @@ msgid ""
 "io/rfcs/2005-match-ergonomics.html) appeared in Rust 2018. If you want to "
 "support older Rust, replace `msg` with `ref msg` in the pattern."
 msgstr ""
+"احفظ نتيجة `divide_in_two` في المتغير `result` و `match` في حلقة. لن يتم "
+"تجميع ذلك لأن `msg` يتم استهلاكه عند المطابقة. لإصلاح ذلك، قم بمطابقة "
+"`&result` بدلاً من `result`. سيجعل ذلك `msg` مرجعًا حتى لا يتم استهلاكه. ظهرت "
+"هذه [\"match ergonomics\"](https://rust-lang.github.io/rfcs/2005-match-"
+"ergonomics.html) في Rust 2018. إذا كنت تريد دعم Rust الأقدم، استبدل `msg` بـ "
+"`ref msg` في النمط."
 
 #: src/pattern-matching/let-control-flow.md
 msgid ""
 "Rust has a few control flow constructs which differ from other languages. "
 "They are used for pattern matching:"
 msgstr ""
+"لدى Rust بعض تراكيب التحكم في التدفق التي تختلف عن اللغات الأخرى. يتم "
+"استخدامها لمطابقة الأنماط (pattern matching):"
 
 #: src/pattern-matching/let-control-flow.md
 msgid "`if let` expressions"
-msgstr ""
+msgstr "تعبيرات `if let`"
 
 #: src/pattern-matching/let-control-flow.md
 msgid "`let else` expressions"
-msgstr ""
+msgstr "تعبيرات `let else`"
 
 #: src/pattern-matching/let-control-flow.md
 msgid "`while let` expressions"
-msgstr ""
+msgstr "تعبيرات `while let`"
 
 #: src/pattern-matching/let-control-flow.md
 msgid ""
@@ -5461,10 +5513,13 @@ msgid ""
 "expr.html#if-let-expressions) lets you execute different code depending on "
 "whether a value matches a pattern:"
 msgstr ""
+"تسمح لك [تعبير `if let`](https://doc.rust-lang.org/reference/expressions/if-"
+"expr.html#if-let-expressions) بتنفيذ كود مختلف بناءً على ما إذا كانت القيمة "
+"تطابق نمطًا:"
 
 #: src/pattern-matching/let-control-flow.md
 msgid "\"slept for {:?}\""
-msgstr ""
+msgstr "\"نام لمدة {:?}\""
 
 #: src/pattern-matching/let-control-flow.md
 msgid ""
@@ -5473,28 +5528,32 @@ msgid ""
 "let_else.html). The \"else\" case must diverge (`return`, `break`, or panic "
 "- anything but falling off the end of the block)."
 msgstr ""
+"في الحالة الشائعة لمطابقة نمط والعودة من الدالة، استخدم [`let else`](https://"
+"doc.rust-lang.org/rust-by-example/flow_control/let_else.html). يجب أن تتفرع "
+"حالة \"else\" (`return`, `break`, أو panic - أي شيء عدا السقوط من نهاية "
+"الكتلة)."
 
 #: src/pattern-matching/let-control-flow.md
 msgid "\"got None\""
-msgstr ""
+msgstr "\"حصل على None\""
 
 #: src/pattern-matching/let-control-flow.md
 msgid "\"got empty string\""
-msgstr ""
+msgstr "\"حصل على سلسلة حروف فارغة (empty string)\""
 
 #: src/pattern-matching/let-control-flow.md
 msgid "\"not a hex digit\""
-msgstr ""
+msgstr "\"ليس رقمًا سداسيًا عشريًا (hex digit)\""
 
 #: src/pattern-matching/let-control-flow.md src/pattern-matching/solution.md
 msgid "\"result: {:?}\""
-msgstr ""
+msgstr "\"النتيجة: {:?}\""
 
 #: src/pattern-matching/let-control-flow.md src/generics/trait-bounds.md
 #: src/smart-pointers/solution.md src/testing/solution.md
 #: src/android/testing.md src/android/testing/googletest.md
 msgid "\"foo\""
-msgstr ""
+msgstr "\"foo\""
 
 #: src/pattern-matching/let-control-flow.md
 msgid ""
