@@ -5133,7 +5133,7 @@ msgid ""
 "Now that we have seen a fair amount of Rust, today will focus on Rust's type "
 "system:"
 msgstr ""
-"الآن بعد أن رأينا قدرًا لا بأس به من Rust، سيركز اليوم على نظام الأنواع في "
+"الآن بعد أن رأينا قدرًا لا بأس به من Rust، سنركز اليوم على نظام الأنواع في "
 "Rust's type:"
 
 #: src/welcome-day-2.md
