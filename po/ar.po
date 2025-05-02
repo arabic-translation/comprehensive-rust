@@ -5986,7 +5986,7 @@ msgstr ""
 "يتم تنفيذ الاشتقاق باستخدام وحدات الماكرو (macros)، وتوفر العديد من الحزم "
 "(crates) وحدات ماكرو اشتقاقية مفيدة لإضافة وظائف مفيدة. على سبيل المثال، "
 "يمكن لـ `serde` اشتقاق دعم التسلسل (serialization) لبنية باستخدام "
-"`#[derive(Serialize)]`.\n"
+"`#[derive(Serialize)]`."
 
 #: src/methods-and-traits/exercise.md
 #, fuzzy
